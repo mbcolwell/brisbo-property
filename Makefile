@@ -2,7 +2,7 @@ MAIN = brisboproperty
 BIN = bin/
 CMD = cmd/
 PIPE = 
-ARGS = --n 10 --m 20
+ARGS =
 
 
 all: build run

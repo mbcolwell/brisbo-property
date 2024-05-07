@@ -1,19 +1,30 @@
 package main
 
 import (
-	"flag"
 	"fmt"
+	"os"
+	"sync"
 
 	brisboproperty "github.com/mbcolwell/brisbo-property/internal"
 )
 
 func main() {
-	var n, m int
+	houses := []brisboproperty.ScrapedHouse{}
+	wg := new(sync.WaitGroup)
+	for i := 1; i < 51; i++ {
+		wg.Add(1)
+		go brisboproperty.ExtractHouses(i, wg, &houses)
+	}
+	wg.Wait()
 
-	flag.IntVar(&n, "n", 0, "First value")
-	flag.IntVar(&m, "m", 0, "First value")
-	flag.Parse()
+	// nCalls := 0
+	fmt.Println(len(houses))
 
-	r := brisboproperty.Add(n, m)
-	fmt.Println(r)
+	apiKeyBytes, err := os.ReadFile("apiKey.txt")
+	if err != nil {
+		fmt.Print(err)
+	}
+	apiKey := string(apiKeyBytes)[:len(apiKeyBytes)-1]
+
+	fmt.Println(brisboproperty.GetHouse(2019028686, apiKey))
 }
