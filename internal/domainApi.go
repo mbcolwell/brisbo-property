@@ -10,11 +10,12 @@ import (
 )
 
 type domainGeolocation struct {
-	Longitude float32 `json:"longitude"`
-	Latitude  float32 `json:"latitude"`
+	Longitude float64 `json:"longitude"`
+	Latitude  float64 `json:"latitude"`
 }
 
 type domainAddress struct {
+	Suburb         string `json:"suburb"`
 	DisplayAddress string `json:"displayAddress"`
 }
 
@@ -83,8 +84,4 @@ func getHouseInformation(houseId int, apiKey string) domainApiResponse {
 	}
 
 	return i
-}
-
-func GetHouse(houseId int, apiKey string) domainApiResponse {
-	return getHouseInformation(houseId, apiKey)
 }

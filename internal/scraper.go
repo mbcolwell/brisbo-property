@@ -18,7 +18,11 @@ type ScrapedHouse struct {
 func ExtractHouses(page int, wg *sync.WaitGroup, houses *[]ScrapedHouse) {
 	defer wg.Done()
 
-	resp, err := http.Get(fmt.Sprintf("https://www.domain.com.au/sold-listings/brisbane-region-qld/house/?excludepricewithheld=1&page=%d", page))
+	resp, err := http.Get(
+		fmt.Sprintf(
+			"https://www.domain.com.au/sold-listings/brisbane-region-qld/house/?excludepricewithheld=1&page=%d", page,
+		),
+	)
 	if err != nil {
 		panic(err)
 	}
