@@ -38,12 +38,12 @@ func getStoredIds(dataFilePath string) []int {
 	return ids
 }
 
-func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string) {
+func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string, nCalls *int) {
 	storedIds := getStoredIds(dataFilePath)
 
-	file, err := os.Open(dataFilePath)
+	file, err := os.OpenFile(dataFilePath, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
 	if err != nil {
-		log.Panic("Error while reading the file", err)
+		log.Panic("Error while opening the file", err)
 	}
 	defer file.Close()
 
@@ -58,26 +58,35 @@ func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string) {
 		wg.Add(1)
 		go func(house ScrapedHouse) {
 			defer wg.Done()
+			*nCalls++
+			if *nCalls > 250 {  // Limited to 500 calls/day
+				return
+			}
 
 			resp := getHouseInformation(house.Id, apiKey)
 
-			writer.Write(
-				[]string{
-					strconv.Itoa(house.Id),
-					strconv.Itoa(house.Price),
-					resp.AddressParts.DisplayAddress,
-					resp.AddressParts.Suburb,
-					strconv.FormatFloat(resp.Geolocation.Longitude, 'f', -1, 64),
-					strconv.FormatFloat(resp.Geolocation.Latitude, 'f', -1, 64),
-					strconv.Itoa(resp.Area),
-					strconv.Itoa(resp.Beds),
-					strconv.Itoa(resp.Baths),
-					strconv.Itoa(resp.Cars),
-					resp.DateListed,
-					resp.DateSold,
-					strings.Join(resp.Features, "|"),
-				},
-			)
+			row := []string{
+				strconv.Itoa(house.Id),
+				strconv.Itoa(house.Price),
+				resp.AddressParts.DisplayAddress,
+				resp.AddressParts.Suburb,
+				strconv.FormatFloat(resp.Geolocation.Longitude, 'f', -1, 64),
+				strconv.FormatFloat(resp.Geolocation.Latitude, 'f', -1, 64),
+				strconv.Itoa(resp.Area),
+				strconv.Itoa(resp.Beds),
+				strconv.Itoa(resp.Baths),
+				strconv.Itoa(resp.Cars),
+				resp.DateListed,
+				resp.DateSold,
+				strings.Join(resp.Features, "|"),
+			}
+
+			writer.Write(row)
+			if err != nil {
+				log.Panic("Error while writing to file", err)
+			}
 		}(house)
 	}
+	wg.Wait()
+	writer.Flush()
 }

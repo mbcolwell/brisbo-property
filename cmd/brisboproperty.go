@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"os"
 	"sync"
@@ -9,21 +10,25 @@ import (
 )
 
 func main() {
+	var apiKeyPath, dataCsvPath string
+	flag.StringVar(&apiKeyPath, "api_key_path", "apiKey.txt", "Location of API key")
+	flag.StringVar(&dataCsvPath, "data_csv_path", "data.csv", "Location of data csv")
+	flag.Parse()
+
 	houses := []brisboproperty.ScrapedHouse{}
 	wg := new(sync.WaitGroup)
-	for i := 48; i < 51; i++ {
+	for i := 20; i < 51; i++ {
 		wg.Add(1)
 		go brisboproperty.ExtractHouses(i, wg, &houses)
 	}
 	wg.Wait()
 
-	fmt.Println(len(houses))
-
-	apiKeyBytes, err := os.ReadFile("apiKey.txt")
+	apiKeyBytes, err := os.ReadFile(apiKeyPath)
 	if err != nil {
 		fmt.Print(err)
 	}
 	apiKey := string(apiKeyBytes)[:len(apiKeyBytes)-1]
 
-	brisboproperty.GetNewHouses(houses, apiKey, "data.csv")
+	nCalls := 0
+	brisboproperty.GetNewHouses(houses, apiKey, dataCsvPath, &nCalls)
 }

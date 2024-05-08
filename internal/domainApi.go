@@ -80,7 +80,7 @@ func getHouseInformation(houseId int, apiKey string) domainApiResponse {
 	err := json.Unmarshal(requestData(url), &i)
 
 	if err != nil {
-		log.Panic(err)
+		log.Printf("Bad response for house ID %d", houseId)
 	}
 
 	return i
