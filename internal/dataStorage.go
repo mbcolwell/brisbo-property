@@ -38,7 +38,8 @@ func getStoredIds(dataFilePath string) []int {
 	return ids
 }
 
-func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string, nCalls *int) {
+func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string) {
+
 	storedIds := getStoredIds(dataFilePath)
 
 	file, err := os.OpenFile(dataFilePath, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
@@ -58,10 +59,6 @@ func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string, nCa
 		wg.Add(1)
 		go func(house ScrapedHouse) {
 			defer wg.Done()
-			*nCalls++
-			if *nCalls > 250 {  // Limited to 500 calls/day
-				return
-			}
 
 			resp := getHouseInformation(house.Id, apiKey)
 
@@ -81,9 +78,9 @@ func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string, nCa
 				strings.Join(resp.Features, "|"),
 			}
 
-			writer.Write(row)
+			err = writer.Write(row)
 			if err != nil {
-				log.Panic("Error while writing to file", err)
+				log.Println("Error while writing to file ", err)
 			}
 		}(house)
 	}

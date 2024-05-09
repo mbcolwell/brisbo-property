@@ -17,7 +17,7 @@ func main() {
 
 	houses := []brisboproperty.ScrapedHouse{}
 	wg := new(sync.WaitGroup)
-	for i := 20; i < 51; i++ {
+	for i := 0; i < 51; i++ {
 		wg.Add(1)
 		go brisboproperty.ExtractHouses(i, wg, &houses)
 	}
@@ -29,6 +29,13 @@ func main() {
 	}
 	apiKey := string(apiKeyBytes)[:len(apiKeyBytes)-1]
 
-	nCalls := 0
-	brisboproperty.GetNewHouses(houses, apiKey, dataCsvPath, &nCalls)
+	pageSize := 10
+	paginatedHouses := [][]brisboproperty.ScrapedHouse{}
+	for i := len(houses); i > 0; i = i - pageSize {
+		paginatedHouses = append(paginatedHouses, houses[max(0, i-pageSize):i])
+	}
+
+	for _, housePage := range paginatedHouses {
+		brisboproperty.GetNewHouses(housePage, apiKey, dataCsvPath)
+	}
 }
