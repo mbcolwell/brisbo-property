@@ -22,7 +22,7 @@ func getStoredIds(dataFilePath string) []int {
 	records, err := reader.ReadAll()
 
 	if err != nil {
-		fmt.Println("Error reading records")
+		fmt.Printf("Error reading records: %v\n", err)
 	}
 
 	ids := []int{}
