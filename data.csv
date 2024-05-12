@@ -1120,3 +1120,179 @@ id,price,address,suburb,longitude,latitude,area,beds,baths,cars,dateListed,dateS
 2019188150,1433000,"4 Servius Avenue, Seven Hills QLD 4170",Seven Hills,153.0755881,-27.4823255,607,3,1,1,2024-04-26T05:43:40.373Z,2024-04-17T05:12:14Z,
 2019191743,732000,"41 Sedgemoor Street, Carseldine QLD 4034",Carseldine,153.0151487,-27.3416373,355,3,2,2,2024-04-22T01:18:07.627Z,2024-04-18T06:22:41Z,
 2019204868,2350000,"25 Ngeringa Crescent, Chapel Hill QLD 4069",Chapel Hill,152.9400146,-27.4904934,921,6,3,3,2024-04-27T02:11:12.277Z,2024-04-25T05:11:03Z,Air conditioning|Balcony / Deck|Built in wardrobes|Swimming Pool|Ensuite
+2018055650,1030000,"37 High Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0752027,-27.5364225,210,4,2,1,2022-11-07T04:10:11.877Z,2022-09-08T05:44:28Z,Ensuite|AC|Dishwasher|Outdoor Entertaining|Builtin Robes
+2018213791,910000,"111 Clough Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0684577,-27.537978,607,3,1,2,2023-01-25T04:25:57.257Z,2022-11-21T05:30:53Z,
+2018031553,796000,"47 Tenby Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0789118,-27.5398263,405,3,1,1,2022-10-05T05:36:46.71Z,2022-08-29T02:04:55Z,
+2018310794,847000,"11 Inge Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0665717,-27.5332201,610,3,1,1,2023-03-12T23:33:24.22Z,2023-01-25T00:53:33Z,Air conditioning|Floorboards|Built in wardrobes|Secure Parking|Fully fenced|Balcony / Deck|Garden / Courtyard
+2018441822,981000,"65 Gaynesford Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0684577,-27.5352233,501,3,1,2,2023-05-04T23:06:34.623Z,2023-03-26T06:56:33Z,Balcony|Built in wardrobes|Separate Laundry
+2018036098,740000,"33 Stanhope Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0693317,-27.5365496,615,2,1,2,2022-09-26T06:41:22.237Z,2022-08-30T23:25:26Z,Air conditioning|Built in wardrobes|Secure Parking|Balcony / Deck
+2017914622,1118800,"26 Santley Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0788543,-27.5443809,690,4,2,2,2022-07-29T00:28:49.427Z,2022-07-05T04:18:12Z,Air conditioning|Floorboards
+2018216763,1175000,"9 Doheny Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0723909,-27.5389454,1227,4,2,4,2023-04-03T06:38:40.737Z,2022-11-22T07:10:04Z,Air Conditioning|Built-In Wardrobes|Close to Schools
+2017996551,1300000,"85 Mountain Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0734439,-27.5386247,810,5,2,2,2022-12-08T05:40:42.26Z,2022-08-11T05:03:24Z,Built In Robes|Dishwasher|Floorboards|Fully Fenced|Outdoor Ent.|Shed|Solar panels
+2017976145,1050000,"57 Gaynesford St, Mount Gravatt QLD 4122",Mount Gravatt,153.0685037,-27.5348938,655,3,1,2,2022-09-29T02:06:39.897Z,2022-08-02T23:02:51Z,Secure Parking
+2018582658,990000,"16 Tudor Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0728279,-27.5322342,635,3,1,2,2023-09-12T07:03:47.563Z,2023-06-12T23:59:28Z,Floorboards|Built in wardrobes|Secure Parking|Shed|Garden / Courtyard
+2018560867,960000,"9 Harper Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0649128,-27.5363988,549,3,1,2,2023-06-23T03:26:39.433Z,2023-05-31T01:28:22Z,Air conditioning|Floorboards|Built in wardrobes|Secure Parking|Balcony / Deck|Garden / Courtyard
+2018697792,970000,"18 TUDOR STREET, Mount Gravatt QLD 4122",Mount Gravatt,153.0726644,-27.5322784,642,3,1,4,2023-09-09T01:08:22.28Z,2023-08-10T04:07:10Z,Floorboards|Broadband internet access|Bath
+2018985813,1080000,"16 Bartels Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0663926,-27.5375574,546,3,1,2,2024-03-12T04:25:36.557Z,2024-01-12T00:34:34Z,Air conditioning|Floorboards|Built in wardrobes|Internal Laundry|Pets allowed|Separate Dining Room|Study|Shed|Fully fenced|Garden / Courtyard|Rainwater storage tank
+2018561705,550000,"1471 Logan Road, Mount Gravatt QLD 4122",Mount Gravatt,153.0807519,-27.5406756,405,3,1,0,2024-03-20T06:52:34.327Z,2023-05-31T04:36:46Z,
+2018477572,1355000,"111 Mountain St, Mount Gravatt QLD 4122",Mount Gravatt,153.0722179,-27.5394361,878,4,3,2,2023-05-10T23:41:55.207Z,2023-04-14T00:29:37Z,Air conditioning|Built in wardrobes|Internal Laundry|Pets allowed|Gas|Bath|Gas|Separate Dining Room|Dishwasher|Study|Fully fenced|Balcony / Deck|Garden / Courtyard|Swimming Pool|Solar hot water|Solar panels|Mountain and suburban views
+2018612558,1162000,"65 Vaughan Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0669261,-27.5347838,632,3,2,4,2023-07-27T05:55:47.01Z,2023-06-28T04:46:31Z,Air conditioning|Built in wardrobes|Dishwasher|Floorboards|Deck|Fully Fenced
+2017538395,1090000,"91 Middleton Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0684117,-27.5329676,635,4,1,1,2022-02-07T05:06:56.673Z,2022-01-20T05:32:46Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Secure Parking
+2017518285,1250000,"15 Bentham Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0721839,-27.5350668,683,4,2,1,2022-03-06T23:42:44.14Z,2022-01-11T23:11:08Z,
+2017614872,985000,"3 Bentham Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0727819,-27.5346404,683,2,2,0,2022-04-06T06:33:14.053Z,2022-02-23T00:24:45Z,Deck|Shed|Built-in Wardrobes|Dishwasher|Floorboards|Air Conditioning
+2017642122,1181000,"21 Margary Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0654574,-27.5360401,546,3,1,2,2022-04-11T02:40:15.643Z,2022-03-06T07:12:17Z,Air conditioning|Built in wardrobes|Dishwasher|Secure Parking|Separate Laundry|Floorboards
+2017721584,1350000,"37 Trent Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0712638,-27.5377995,607,5,3,2,2022-05-16T07:05:23.53Z,2022-04-07T01:16:24Z,Air conditioning|Floorboards|Dishwasher|Fully fenced|Swimming Pool
+2017570059,1141667,"80 Middleton Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0692397,-27.5329705,620,4,1,4,2022-03-16T04:51:03.973Z,2022-02-03T06:11:04Z,Balcony|Secure Parking|Fully Fenced
+2017679661,1200000,"116 Clough Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0695157,-27.5386221,607,3,3,2,2022-04-08T00:10:25.013Z,2022-03-22T00:43:26Z,
+2017676452,1130000,"22 High Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0761861,-27.5364087,539,4,2,1,2022-05-03T04:00:53.057Z,2022-03-20T23:05:23Z,Air conditioning
+2017703231,1425000,"47 Vaughan Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0679517,-27.5342703,607,4,3,2,2022-05-16T06:03:16.94Z,2022-03-31T01:12:39Z,Air conditioning|Floorboards|Built in wardrobes|Internal Laundry|Gas|Bath|Gas|Dishwasher|Secure Parking|Balcony / Deck|Garden / Courtyard|Rainwater storage tank
+2017517863,1005000,"28 Suncroft Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0700678,-27.5381438,607,3,1,2,2022-02-22T03:19:29.69Z,2022-01-11T07:43:15Z,
+2017898956,1176000,"32 Loreburn Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0735179,-27.5347513,680,3,1,3,2022-09-15T00:01:06.777Z,2022-06-28T03:12:30Z,Air conditioning|Built in wardrobes|Garden / Courtyard|Balcony / Deck|Dishwasher|First Home Buyer|Floorboards|Outdoor Entertaining|Swimming Pool|Secure Parking|Shed|Heating|Study|Rainwater storage tank
+2017795452,980000,"73 Vaughan Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0665717,-27.5350424,632,3,1,2,2022-07-01T00:46:28.16Z,2022-05-10T11:20:16Z,Air conditioning|Built in wardrobes|Study|Deck|Shed
+2018014566,900000,"50 High Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0749176,-27.537272,602,4,2,2,2022-08-19T04:23:31.197Z,2022-08-19T04:23:31Z,
+2017837458,927500,"56 Clough Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0667361,-27.5356224,597,3,1,1,2022-08-01T11:30:16.01Z,2022-05-30T05:50:53Z,Built in wardrobes|Floorboards|Fully Fenced
+2017782110,1105000,"115 Mountain Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0719538,-27.5390875,693,4,1,2,2022-06-17T05:50:35.967Z,2022-05-04T19:40:19Z,
+2017883521,1225000,"1648 Logan Road, Mount Gravatt QLD 4122",Mount Gravatt,153.0818906,-27.5449707,895,2,2,14,2022-09-29T11:44:14.167Z,2022-06-21T01:50:29Z,
+2017663974,865000,"87 Gaynesford Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0673537,-27.5359681,574,3,1,3,2022-04-28T05:28:27.91Z,2022-03-15T05:33:36Z,
+2017883543,1210000,"1650 Logan Road, Mount Gravatt QLD 4122",Mount Gravatt,153.0818221,-27.54515,612,5,2,2,2022-09-13T02:34:15.053Z,2022-06-21T01:55:41Z,
+2017829965,1250000,"64 HIGH STREET, Mount Gravatt QLD 4122",Mount Gravatt,153.074392,-27.5375609,0,5,4,2,2022-08-10T22:53:22.553Z,2022-05-25T23:33:41Z,
+2017886082,700000,"15 Doheny Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0728739,-27.5385586,1290,5,3,2,2022-12-11T22:31:15.877Z,2022-06-22T00:42:44Z,Floorboards|Internal Laundry|Bath|Separate Dining Room|Balcony / Deck
+2018757026,975000,"86 Bowen Street, Windsor QLD 4030",Windsor,153.0368571,-27.4337439,488,3,2,2,2023-09-08T04:46:30.133Z,2023-09-08T04:46:30Z,
+2018777514,1127500,"8 Batchelor Street, Windsor QLD 4030",Windsor,153.0250391,-27.434425,454,3,1,1,2023-09-27T04:40:44.967Z,2023-09-19T00:22:39Z,
+2018801141,1061000,"19 Whish Street, Windsor QLD 4030",Windsor,153.0292607,-27.4275476,385,3,1,2,2023-10-23T01:29:57.05Z,2023-09-28T06:43:49Z,
+2018757025,1100000,"134 Maygar Street, Windsor QLD 4030",Windsor,153.0254985,-27.4270894,405,3,1,2,2023-09-08T04:46:27.187Z,2023-09-08T04:46:27Z,
+2018840005,960000,"35 Green Terrace, Windsor QLD 4030",Windsor,153.0261972,-27.4403383,405,2,1,2,2023-10-17T07:15:57.697Z,2023-10-17T07:15:57Z,
+2018809131,1260000,"39 Swan Terrace, Windsor QLD 4030",Windsor,153.0273604,-27.4404519,410,3,1,2,2023-10-03T07:45:32.523Z,2023-10-03T07:45:32Z,
+2018761492,1170000,"143 Eildon Road, Windsor QLD 4030",Windsor,153.0246724,-27.4357235,0,4,3,2,2023-10-27T05:43:52.993Z,2023-09-11T23:23:43Z,
+2018630962,865000,"64 Somerset Street, Windsor QLD 4030",Windsor,153.0350491,-27.4345734,508,2,1,2,2023-10-23T23:24:27.763Z,2023-07-06T11:12:30Z,Close to Transport|Close to Shops|Close to Schools|Floorboards|Fully Fenced
+2018718007,2300000,"11 Sixth Avenue, Windsor QLD 4030",Windsor,153.0239768,-27.4338212,374,4,3,1,2023-10-18T01:46:35.797Z,2023-08-21T07:34:09Z,Study
+2018840859,1815000,"38 Gilbert Road, Windsor QLD 4030",Windsor,153.0236243,-27.4251093,597,3,2,2,2023-11-14T06:34:48.073Z,2023-10-18T00:18:06Z,Built in wardrobes|Balcony / Deck|Dishwasher|Fully fenced|Gas Cooktop|Gas Hot Water Service|Laundry|Outdoor Entertaining|Air conditioning
+2018856604,3200000,"10 Rupert Street, Windsor QLD 4030",Windsor,153.0306468,-27.4281711,0,4,3,2,2023-12-11T01:49:11.13Z,2023-10-25T01:56:57Z,
+2018918277,1290000,"59 Grantson Street, Windsor QLD 4030",Windsor,153.0342355,-27.4369354,410,4,2,3,2023-11-22T01:15:07.047Z,2023-11-22T01:15:07Z,
+2018784414,1725000,"159 Main Avenue, Windsor QLD 4030",Windsor,153.0280274,-27.4325854,406,4,2,2,2023-12-01T06:14:50.853Z,2023-09-21T03:46:06Z,Air conditioning|Alarm System|Balcony / Deck|Dishwasher|Fully fenced|Gas Cooktop|Gas Hot Water Service|Intercom|Laundry|Vacuum System|Rainwater storage tank
+2018844087,860000,"31 Taylor Street, Windsor QLD 4030",Windsor,153.0291243,-27.4394761,405,2,1,2,2024-01-15T03:26:35.393Z,2023-10-18T23:31:59Z,Dishwasher|Floorboards|Air-Conditioner|Secure Parking|Balcony|Fully Fenced|Water Tank
+2018822228,1630000,"22 Oakwal Terrace, Windsor QLD 4030",Windsor,153.0290343,-27.4364861,607,3,1,2,2023-12-14T05:32:14.38Z,2023-10-09T07:12:47Z,
+2018822316,1910000,"33 Brook Street, Windsor QLD 4030",Windsor,153.0277189,-27.4289461,400,5,3,2,2023-11-17T00:59:59.377Z,2023-10-09T08:01:59Z,
+2018746979,1630000,"47 Oakwal Terrace, Windsor QLD 4030",Windsor,153.0296989,-27.4355251,430,4,3,2,2023-12-20T03:29:18.883Z,2023-09-04T23:53:29Z,
+2018813574,835000,"5 Swan Terrace, Windsor QLD 4030",Windsor,153.0266005,-27.4417408,455,3,2,2,2023-12-08T03:58:16.28Z,2023-10-04T23:44:28Z,Built in wardrobes|Ceiling Fans|Balcony / Deck|Dishwasher|Ensuite|First Home Buyer|Fully fenced|Secure Parking|Walk-in-Robe
+2018841964,1150000,"39 Taylor Street, Windsor QLD 4030",Windsor,153.0287128,-27.4394301,405,5,4,2,2023-12-18T02:47:50.91Z,2023-10-18T03:45:28Z,
+2018846320,745000,"97 Grafton Street, Windsor QLD 4030",Windsor,153.0376401,-27.433232,531,3,1,2,2023-11-17T01:00:01.327Z,2023-10-19T06:00:14Z,
+2019063333,1205000,"61 Green Terrace, Windsor QLD 4030",Windsor,153.0268889,-27.4392593,607,3,2,0,2024-03-28T06:48:37.977Z,2024-02-19T10:28:12Z,Deck|Fully Fenced|Shed|Floorboards
+2019008154,1325000,"51 Nicholas Street, Windsor QLD 4030",Windsor,153.0277503,-27.4401574,440,3,2,2,2024-02-19T03:12:53.18Z,2024-01-24T06:06:42Z,Built in wardrobes|Close to Schools|Close to Transport|Covered Terrace|Balcony / Deck|Dishwasher|Air conditioning|Floorboards|Fully fenced|Laundry|Remote Garage|Shed|Solar panels
+2018880949,1030000,"28 Brown Street, Windsor QLD 4030",Windsor,153.0292942,-27.433461,405,3,1,2,2023-12-21T05:58:03.637Z,2023-11-04T03:25:15Z,
+2018899378,1170000,"155 Eildon Road, Windsor QLD 4030",Windsor,153.0239492,-27.4356219,405,3,1,3,2024-01-22T23:20:13.78Z,2023-11-14T00:16:29Z,
+2018929608,1075000,"44 Bowen Street, Windsor QLD 4030",Windsor,153.0347345,-27.4334368,726,3,1,1,2024-03-11T23:37:03.417Z,2023-11-28T03:21:35Z,
+2019020666,932000,"7 Maurice Street, Windsor QLD 4030",Windsor,153.0365121,-27.4333118,592,3,1,2,2024-03-11T23:37:06.05Z,2024-01-31T04:35:54Z,Balcony|Built in wardrobes|Gas Stove|Secure Parking|Separate Laundry|Floorboards|Study|Fully Fenced
+2018864587,850000,"54 Grantson Street, Windsor QLD 4030",Windsor,153.0340091,-27.4364627,460,2,1,3,2023-12-04T01:53:40.087Z,2023-10-27T05:20:23Z,
+2018987748,895000,"12 Bowen Street, Windsor QLD 4030",Windsor,153.0328193,-27.4331937,330,3,3,2,2024-02-14T23:39:27.3Z,2024-01-14T22:32:42Z,
+2018908315,555000,"301/21 Victoria Street, Windsor QLD 4030",Windsor,153.0295931,-27.4423045,0,2,2,1,2023-12-20T00:06:33.923Z,2023-11-16T06:07:33Z,
+2018992144,2700000,"115 Constitution Road, Windsor QLD 4030",Windsor,153.025965,-27.4303272,607,4,2,2,2024-01-23T23:32:20.22Z,2024-01-16T07:18:26Z,
+2019122845,1415000,"8 Storkey Street, Windsor QLD 4030",Windsor,153.0364848,-27.4271069,405,3,1,2,2024-03-18T01:52:28.167Z,2024-03-18T01:38:32Z,
+2018981969,870000,"29 Taylor Street, Windsor QLD 4030",Windsor,153.0292333,-27.4394527,405,3,1,2,2024-03-28T00:14:47.36Z,2024-01-10T03:32:05Z,
+2019065397,1000000,"48 Blackmore Street, Windsor QLD 4030",Windsor,153.0365818,-27.4299241,405,3,1,1,2024-03-20T22:51:57.867Z,2024-02-26T02:27:57Z,
+2018820413,1215000,"50 Orkney Street, Kenmore QLD 4069",Kenmore,152.9309027,-27.5087083,625,4,2,2,2024-03-22T02:43:38.527Z,2024-02-05T03:16:59Z,Air conditioning|Ensuite|Floorboards|Built in wardrobes|Internal Laundry|Bath|Dishwasher|Study|Secure Parking|Fully fenced|Balcony / Deck|Swimming Pool
+2019008757,1575000,"21 Gem Road, Kenmore QLD 4069",Kenmore,152.9345209,-27.5174446,504,5,3,2,2024-03-12T04:40:33.693Z,2024-01-24T20:46:19Z,Ensuite
+2019135240,925000,"68 Kenmore Road, Kenmore QLD 4069",Kenmore,152.937716,-27.5165677,627,4,1,3,2024-03-21T23:25:43.147Z,2024-03-21T23:25:43Z,
+2019050547,1825000,"199 Kenmore Road, Kenmore QLD 4069",Kenmore,152.9462901,-27.5237198,9434,5,3,2,2024-03-14T01:57:03.5Z,2024-02-14T00:54:37Z,
+2019085068,1000000,"5/49 Marshall Lane, Kenmore QLD 4069",Kenmore,152.9466802,-27.5119886,400,4,2,2,2024-03-28T05:19:06.907Z,2024-02-28T05:54:07Z,
+2018995267,1250000,"19/60 Gubberley Street, Kenmore QLD 4069",Kenmore,152.9429862,-27.510148,414,3,2,2,2024-03-05T03:01:19.153Z,2024-01-17T11:02:32Z,Air conditioning|Balcony|Built in wardrobes|Dishwasher|Gas Stove|Swimming Pool|Secure Parking|Separate Laundry|Floorboards|Deck|Tennis Court|Courtyard
+2019085724,1230000,"12 Euree Street, Kenmore QLD 4069",Kenmore,152.948041,-27.5138149,607,4,3,2,2024-04-10T05:03:48.68Z,2024-02-28T09:37:24Z,Ensuite
+2019011447,1000000,"13 Kilkivan Avenue, Kenmore QLD 4069",Kenmore,152.9355093,-27.5100073,832,5,2,2,2024-03-14T05:08:24.35Z,2024-01-25T06:35:25Z,
+2018830082,950000,"4 Fortrose Street, Kenmore QLD 4069",Kenmore,152.9288434,-27.5130161,627,3,1,2,2024-04-10T05:25:48.31Z,2023-10-12T03:31:52Z,
+2019022834,1285000,"23 Orkney Street, Kenmore QLD 4069",Kenmore,152.9323372,-27.508581,678,4,3,2,2024-03-10T23:16:11.93Z,2024-01-31T23:44:30Z,
+2019013515,800000,"14 Fairweather Street, Kenmore QLD 4069",Kenmore,152.9366126,-27.5175649,1416,5,3,4,2024-03-26T06:24:29.88Z,2024-01-29T00:36:56Z,
+2019043053,880000,"2 Alkina Street, Kenmore QLD 4069",Kenmore,152.9479245,-27.5097633,607,3,2,2,2024-02-09T04:56:21.547Z,2024-02-09T04:56:21Z,
+2018977684,1230000,"17 Fairweather Street, Kenmore QLD 4069",Kenmore,152.936015,-27.5168469,594,3,2,2,2024-01-08T02:40:11.963Z,2024-01-08T02:40:11Z,
+2018918978,950000,"9 Akuna Street, Kenmore QLD 4069",Kenmore,152.9497509,-27.5083789,655,3,1,2,2024-01-15T05:52:30.383Z,2023-11-22T03:37:51Z,
+2018918951,1395000,"35 Wyndarra Street, Kenmore QLD 4069",Kenmore,152.9293491,-27.5172722,699,4,3,2,2024-01-26T22:46:03.827Z,2024-01-24T00:44:12Z,Air Conditioning|Built-In Wardrobes|Ensuite|Security Access
+2018934876,1075000,"3 Marland Street, Kenmore QLD 4069",Kenmore,152.9404744,-27.520152,645,4,2,2,2024-01-04T23:09:44.1Z,2023-11-30T03:06:39Z,Ensuite
+2018943871,2000000,"40 Gleneagle Street, Kenmore QLD 4069",Kenmore,152.9403824,-27.519074,483,5,3,3,2024-01-11T04:12:22.88Z,2023-12-06T01:56:44Z,
+2018198600,1175000,"15 Plumeria Close, Kenmore QLD 4069",Kenmore,152.9419455,-27.5198247,0,4,2,2,2023-11-30T00:47:58.103Z,2022-11-14T05:22:08Z,Air conditioning|Brick|Built in wardrobes|Ceiling Fans|Close to Schools|Close to Shops|Close to Transport|Fully fenced|High Ceilings|Outdoor Entertaining|Remote Garage|Study|Walk-in robes
+2018945957,1000000,"26 Cromarty Street, Kenmore QLD 4069",Kenmore,152.9300846,-27.5122173,685,4,2,2,2024-02-01T05:24:41.077Z,2023-12-07T00:58:40Z,
+2018982126,1931000,"25 Scenic Road, Kenmore QLD 4069",Kenmore,152.9287285,-27.5249552,1000,5,2,2,2024-02-22T22:18:03.67Z,2024-01-10T04:10:22Z,
+2018906982,855000,"14 Kowhai Street, Kenmore QLD 4069",Kenmore,152.9457163,-27.5110268,941,3,3,2,2024-01-02T01:53:25.95Z,2023-11-16T02:58:35Z,
+2018993430,1320000,"24 Rowena Street, Kenmore QLD 4069",Kenmore,152.9283377,-27.5192201,607,4,2,2,2024-03-28T05:14:03.85Z,2024-01-17T02:22:10Z,
+2018931113,1070000,"17 Annabel Street, Kenmore QLD 4069",Kenmore,152.9309509,-27.519494,582,3,2,3,2024-02-26T05:08:06.807Z,2023-11-28T21:58:38Z,
+2019024049,1217500,"10/60 Gubberley Street, Kenmore QLD 4069",Kenmore,152.9426506,-27.510219,0,3,2,2,2024-02-28T03:48:55.883Z,2024-02-01T03:17:15Z,
+2019013141,855000,"70 Brookfield Road, Kenmore QLD 4069",Kenmore,152.9335325,-27.5062902,0,4,1,2,2024-04-01T23:42:15.03Z,2024-01-28T23:02:13Z,
+2018973039,825000,"4 Durness Street, Kenmore QLD 4069",Kenmore,152.9298088,-27.5130489,632,3,1,1,2024-02-12T03:58:08.077Z,2024-01-02T05:31:41Z,Fully Fenced|Outdoor Entertainment Area|Secure Parking|Shed|Broadband Internet Available|Built-in Wardrobes|Dishwasher|Pay TV Access|Workshop|Air Conditioning|Open Fireplace|Split-System Air Conditioning|Split-System Heating|Water Tank
+2018895808,1175000,"1055 Moggill Road, Kenmore QLD 4069",Kenmore,152.9420835,-27.508588,809,4,2,4,2024-02-16T00:52:15.307Z,2023-11-10T23:32:14Z,Air conditioning|Built in wardrobes|Dishwasher|Secure Parking|Separate Laundry|Floorboards|Study|Deck|Courtyard|Fully Fenced
+2018905109,905000,"2121 Moggill Road, Kenmore QLD 4069",Kenmore,152.9367506,-27.5101401,607,2,1,3,2024-03-25T06:19:26.727Z,2023-11-15T08:52:36Z,Air conditioning|Built in wardrobes|Internal Laundry|Bath|Dishwasher|Balcony / Deck|Garden / Courtyard|Swimming Pool
+2019020557,1165000,"6 Eversden Street, Kenmore QLD 4069",Kenmore,152.9448419,-27.5154334,546,4,2,2,2024-02-28T07:11:56.93Z,2024-01-31T04:19:51Z,
+2018957174,894000,"23 Ijong Street, Kenmore QLD 4069",Kenmore,152.9486558,-27.5116534,607,3,1,2,2024-04-02T03:30:34.98Z,2023-12-14T05:57:24Z,
+2018696051,1803000,"42 Scenic Road, Kenmore QLD 4069",Kenmore,152.9269526,-27.5258335,3086,4,3,4,2024-01-23T07:08:16.083Z,2023-11-01T02:07:58Z,
+2018787636,785000,"64 Darra Avenue, Darra QLD 4076",Darra,152.9598327,-27.5618927,1012,2,1,2,2023-10-27T00:20:04.503Z,2023-09-22T05:10:54Z,Air conditioning|Built in wardrobes|Carpets|Ceiling Fans|Close to Schools|Close to Shops|Close to Transport|Garden / Courtyard|Dishwasher|Dual living|First Home Buyer|Floorboards|Fully fenced|Secure Parking|Shed|Study|Tiled throughout
+2018870441,580000,"124 Stratheden St, Darra QLD 4076",Darra,152.9492663,-27.5692963,632,2,1,1,2023-12-04T03:23:26.037Z,2023-10-31T05:41:59Z,Study
+2018716905,490000,"13 Owen Stanley Place, Darra QLD 4076",Darra,152.9416697,-27.5760859,304,3,2,1,2023-09-14T23:30:00.94Z,2023-08-21T03:36:02Z,Air conditioning|Broadband internet access|Built in wardrobes|Garden / Courtyard|Electric Hot Water Service|Fully fenced|Outdoor Entertaining|Patio|Remote Garage|Ensuite
+2018824369,550000,"20 Sanananda Street, Darra QLD 4076",Darra,152.9437385,-27.575461,615,3,1,1,2023-11-01T00:13:16.157Z,2023-10-10T05:10:04Z,Air conditioning|Built in wardrobes|Pets allowed|Fully fenced
+2018649887,700000,"4 Sigiriya Street, Darra QLD 4076",Darra,152.9572094,-27.5602446,628,4,1,1,2023-08-14T04:25:36.18Z,2023-07-17T23:03:52Z,
+2018536600,601000,"68 Rowe Terrace, Darra QLD 4076",Darra,152.9567182,-27.5695918,449,3,1,0,2023-11-27T23:38:47.76Z,2023-05-17T03:24:51Z,Laundry
+2018810473,740000,"23 Pannard Street, Darra QLD 4076",Darra,152.9620946,-27.5569161,911,3,2,2,2023-12-08T06:45:22.49Z,2023-10-04T01:48:12Z,
+2018781145,702500,"2 Loyal Street, Darra QLD 4076",Darra,152.9593939,-27.5544505,405,3,1,2,2023-11-26T22:46:31.167Z,2023-09-20T02:54:53Z,
+2018866982,604000,"61/35 Ashridge Road, Darra QLD 4076",Darra,152.9616275,-27.5583813,198,4,2,2,2023-11-16T02:22:43.557Z,2023-10-30T03:23:11Z,
+2018676151,678000,"26 Killarney Avenue, Darra QLD 4076",Darra,152.9552156,-27.562594,1012,3,1,2,2023-08-28T02:38:31.157Z,2023-07-31T08:33:26Z,
+2019137196,500000,"39 Arcadia Crescent, Darra QLD 4076",Darra,152.9509106,-27.5693846,625,2,1,0,2024-03-22T06:58:24.16Z,2024-03-22T06:58:24Z,
+2018921763,708888,"112 Scotts Road, Darra QLD 4076",Darra,152.9533474,-27.568159,412,3,2,6,2024-01-17T05:30:57.35Z,2023-11-23T02:17:44Z,
+2018831142,530000,"42 Sanananda Street, Darra QLD 4076",Darra,152.9428261,-27.5741033,615,3,1,1,2024-01-10T23:50:56.827Z,2023-10-12T06:26:21Z,Built in wardrobes|Fully fenced|Shed
+2018984903,760000,"128 Cardiff Road, Darra QLD 4076",Darra,152.955968,-27.5587143,756,3,1,3,2024-03-19T14:19:56.883Z,2024-01-11T05:35:14Z,Air conditioning|Garden / Courtyard|Balcony / Deck|Floorboards|Fully fenced|Outdoor Entertaining|Rumpus Room|Secure Parking|Shed|Study
+2018853850,540000,"48 Wau Road, Darra QLD 4076",Darra,152.9397273,-27.5763667,615,3,1,1,2023-11-27T00:24:44.523Z,2023-10-24T02:16:22Z,
+2019137195,500000,"39 Arcadia Crescent, Darra QLD 4076",Darra,152.9509106,-27.5693846,625,2,1,0,2024-03-22T06:58:22.143Z,2024-03-22T06:58:22Z,
+2018899326,557000,"52 Sanananda Street, Darra QLD 4076",Darra,152.9424513,-27.5735399,615,3,1,1,2024-01-10T23:51:49.463Z,2023-11-14T00:03:53Z,Balcony / Deck|Built in wardrobes|First Home Buyer|Floorboards|Shed
+2018941355,675000,"6 Sigiriya Street, Darra QLD 4076",Darra,152.9574393,-27.5602081,647,3,1,1,2023-12-18T04:39:50.323Z,2023-12-05T01:02:54Z,
+2018760513,2395000,"8 Baffin Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0734719,-27.5497866,865,5,4,4,2023-12-08T04:36:34.323Z,2023-09-11T05:28:17Z,Air conditioning|Built in wardrobes|Gas Stove|Swimming Pool|Secure Parking|Separate Laundry|Study|Fully Fenced
+2018933516,590000,"36 Pickworth St, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0768351,-27.5606216,0,0,0,0,2023-12-08T09:46:45.863Z,2023-11-30T07:30:56Z,
+2018858377,965000,"167 Dawson Road, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0889947,-27.5545365,607,3,1,2,2023-12-04T05:22:05.187Z,2023-10-25T06:27:33Z,
+2018821523,549999,"9/106 Norton Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0862945,-27.557273,139,3,2,1,2023-11-15T06:41:24.393Z,2023-10-09T04:34:54Z,
+2018662405,1000000,"4 Tryon Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0849279,-27.5591874,602,4,2,2,2023-11-24T05:54:02.7Z,2023-07-24T04:56:23Z,Balcony / Deck|Built in wardrobes|Zone High Density Residential
+2018851201,1702000,"19 O'Grady Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0711258,-27.5495098,651,4,3,2,2023-12-18T06:01:43.653Z,2023-10-23T02:43:57Z,Ensuite|AC|Inground Pool|Balcony|Garden|Dishwasher|Ducted Cooling|Outdoor Entertaining|Remote Garage|Builtin Robes|Solar Panels|Water Tank
+2018969215,1170000,"27 Exmoor Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.086189,-27.5480144,617,4,3,3,2024-01-10T00:15:42.15Z,2023-12-23T08:11:21Z,Air conditioning|Ensuite|Built in wardrobes|Internal Laundry|Pets allowed|Bath|Separate Dining Room|Dishwasher|Study|Secure Parking|Fully fenced|Balcony / Deck|Garden / Courtyard|Rainwater storage tank|Solar hot water|Solar panels
+2018845179,935000,"2 Zetland Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0907213,-27.5514966,610,3,1,1,2023-11-30T11:36:27.8Z,2023-10-19T03:12:36Z,
+2019011966,1275000,"90 Dawson Road, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0847214,-27.5534816,486,4,2,2,2024-03-04T06:01:28.043Z,2024-01-25T21:41:54Z,
+2018937772,1065077,"46 Archer Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0825143,-27.5548846,486,3,2,1,2023-12-22T02:09:55.533Z,2023-12-01T05:40:28Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Openable Windows|Dishwasher|Floorboards
+2019071578,1234000,"21 Lay Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.086353,-27.5437381,696,3,1,4,2024-03-07T00:31:24.16Z,2024-02-22T02:28:23Z,Air conditioning|Floorboards|Built in wardrobes|Secure Parking|Fully fenced
+2019038744,1505000,"55 Wemvern Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0889507,-27.5495981,607,5,3,4,2024-03-03T22:59:21.123Z,2024-02-07T23:33:41Z,Floorboards|Built in wardrobes|Bath|Separate Dining Room|Dishwasher|Study|Shed|Balcony / Deck|Garden / Courtyard
+2019071581,850000,"44 Brockhouse Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.086583,-27.5560343,637,3,1,2,2024-03-07T00:31:27.74Z,2024-02-22T02:28:36Z,Air conditioning|Floorboards|Secure Parking|Garden / Courtyard
+2019071564,1260000,"11 Phoebus Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0782353,-27.5494513,607,4,2,3,2024-03-14T05:56:33.343Z,2024-02-22T02:27:24Z,Air conditioning|Floorboards|Secure Parking|Fully fenced|Balcony / Deck|Rainwater storage tank
+2018597375,935000,"1/32 Asbhy Street, Fairfield QLD 4103",Fairfield,153.025325,-27.5104358,346,4,2,2,2023-09-07T00:28:16.57Z,2023-06-20T06:00:57Z,Ensuite|AC|Balcony|Dishwasher|Split System AC|Outdoor Entertaining|Fully Fenced|Builtin Robes|Rumpus Room
+2018579340,955000,"15 Turner Avenue, Fairfield QLD 4103",Fairfield,153.0190555,-27.5060878,716,3,3,3,2023-07-28T05:06:10.67Z,2023-06-09T02:52:44Z,Air Conditioning|Balcony|Built In Robes|Dishwasher|Ensuite|Floorboards|Fully Fenced|Outdoor Ent.|Shed|Swimming Pool|Water Tank|Workshop
+2018508674,1005000,"36 Hefferan Street, Fairfield QLD 4103",Fairfield,153.0246688,-27.5021982,594,2,1,4,2023-08-31T06:58:03.663Z,2023-05-02T06:31:57Z,Floorboards|Built in wardrobes|Bath|Dishwasher|Secure Parking|Balcony / Deck|Garden / Courtyard
+2018678258,1285000,"20 Luya Street, Fairfield QLD 4103",Fairfield,153.0241889,-27.5040438,964,4,3,3,2023-10-23T05:50:03.297Z,2023-08-01T06:06:20Z,Air Conditioning|Close to Transport|Close to Shops|Pool|Close to Schools|Ensuite
+2018670285,1015000,"32 William Parade, Fairfield QLD 4103",Fairfield,153.0183001,-27.5073171,607,3,2,2,2023-08-28T05:28:22.64Z,2023-07-27T05:10:36Z,
+2018198650,5750000,"29 Brisbane Corso, Fairfield QLD 4103",Fairfield,153.0231977,-27.5018377,1031,4,4,6,2023-07-20T00:52:59.77Z,2022-11-14T05:30:07Z,
+2018651093,935000,"10 Allamanda Street, Fairfield QLD 4103",Fairfield,153.021314,-27.5067558,607,3,1,1,2023-08-10T05:39:59.797Z,2023-07-18T04:33:02Z,Outdoor Entertaining|Floorboards|Builtin Robes
+2018617177,780000,"18 Turley Street, Fairfield QLD 4103",Fairfield,153.0234731,-27.5043642,860,4,2,2,2023-10-03T06:47:28.123Z,2023-06-30T01:18:37Z,
+2018750449,990000,"17 Glena Street, Fairfield QLD 4103",Fairfield,153.0262254,-27.5052049,549,3,1,1,2023-09-26T22:43:03.09Z,2023-09-06T02:12:52Z,AC|Deck|Study|Dishwasher|Split System AC|Outdoor Entertaining|Fully Fenced|Floorboards|Builtin Robes
+2018722125,1438532,"11 Turley Street, Fairfield QLD 4103",Fairfield,153.0228186,-27.5042581,473,5,2,2,2023-11-24T02:26:53.587Z,2023-08-23T03:35:50Z,Ensuite|AC|Inground Pool|Dishwasher|Ducted Cooling|Shed|Fully Fenced|Builtin Robes|Rumpus Room|Solar Panels
+2018930365,6100000,"29 Brisbane Corso, Fairfield QLD 4103",Fairfield,153.0231977,-27.5018377,1031,4,4,6,2024-01-15T23:14:24.977Z,2023-11-28T05:52:14Z,
+2019057738,2860000,"16 Brisbane Corso, Fairfield QLD 4103",Fairfield,153.023813,-27.5014798,556,4,3,2,2024-03-14T00:28:18.593Z,2024-02-15T23:48:46Z,
+2018928176,1450000,"17 Sydney Street, Fairfield QLD 4103",Fairfield,153.0224612,-27.5086873,642,6,2,2,2024-01-16T06:49:50.047Z,2023-11-27T06:15:41Z,Air conditioning|Built in wardrobes|Floorboards|Remote Garage|Solar panels|City Views
+2018891357,920000,"57 Mildmay Street, Fairfield QLD 4103",Fairfield,153.0282383,-27.5069663,405,3,1,0,2024-01-05T05:12:11.11Z,2023-11-09T04:15:55Z,
+2018920115,1822000,"42 Archibald Street, Fairfield QLD 4103",Fairfield,153.0215909,-27.511644,577,5,2,1,2024-01-14T23:20:44.543Z,2023-11-22T06:30:38Z,Air Conditioning|Built-In Wardrobes|Close to Shops|Pool|Close to Schools|Prestige Homes|Openable Windows
+2019093483,2200000,"24 Moolabar Street, Morningside QLD 4170",Morningside,153.0677108,-27.475194,405,5,2,2,2024-03-11T03:33:41.037Z,2024-03-04T03:42:47Z,Air conditioning|Air-Conditioning|Balcony / Deck|Built in wardrobes|Close to Schools|Close to Shops|Close to Transport|Fully fenced|Pool|Swimming Pool|Remote Garage|Secure Parking|Study|City Views
+2019031520,2290000,"72 Algoori Street, Morningside QLD 4170",Morningside,153.0753499,-27.4614617,405,4,4,2,2024-03-02T02:39:38.113Z,2024-02-05T07:00:02Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Close to Schools|Ensuite|Fully Fenced|Secure Parking|Swimming Pool - Below Ground|Solar Panels|Dishwasher|Study
+2019078614,1350000,"73 Richmond Road, Morningside QLD 4170",Morningside,153.0735252,-27.4712887,401,4,2,2,2024-03-24T23:31:22.73Z,2024-02-26T05:25:28Z,Air conditioning|Built in wardrobes|Internal Laundry|Bath|Dishwasher|Balcony / Deck
+2019083339,1491000,"94 Beelarong Street, Morningside QLD 4170",Morningside,153.0774742,-27.4597397,759,4,2,2,2024-02-28T01:28:03.807Z,2024-02-28T01:28:03Z,
+2019060615,1150000,"39 Foxton Street, Morningside QLD 4170",Morningside,153.0693183,-27.474968,417,3,1,2,2024-03-21T18:19:42.333Z,2024-02-18T21:30:14Z,Balcony|Fully Fenced|Remote Garage|Secure Parking|Built-in Wardrobes|Dishwasher|Air Conditioning
+2019045398,2345000,"15 Ison Street, Morningside QLD 4170",Morningside,153.0653684,-27.4679571,616,5,3,2,2024-03-11T05:44:46.367Z,2024-02-12T02:12:15Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Close to Schools|Ensuite|Floorboards|Dishwasher|Study
+2018984045,1355000,"65 Bridgewater Street, Morningside QLD 4170",Morningside,153.0767951,-27.4704103,463,4,2,2,2024-03-06T05:29:24.99Z,2024-01-11T02:48:26Z,
+2019072237,1425000,"13 Brenda Street, Morningside QLD 4170",Morningside,153.0811937,-27.461487,761,3,2,2,2024-03-14T06:42:17.843Z,2024-02-22T04:29:40Z,
+2019002978,1660000,"31 Bonar Street, Morningside QLD 4170",Morningside,153.0768434,-27.4733286,405,5,3,2,2024-04-26T05:10:22.213Z,2024-04-26T05:09:51Z,Ensuite(s)|Air conditioning|Ensuite|Floorboards|Built in wardrobes|Internal Laundry|Dishwasher|Garden / Courtyard|Outdoor Spa|Rainwater storage tank
+2017252164,1350000,"76 King Arthur Terrace, Tennyson QLD 4105",Tennyson,152.9999076,-27.5247995,405,4,2,2,2021-11-15T23:19:47.207Z,2021-09-14T00:58:20Z,
+2017299939,1501000,"11 Vivian Street, Tennyson QLD 4105",Tennyson,152.9966194,-27.5251346,577,3,2,2,2021-11-04T06:33:44.97Z,2021-10-05T04:28:49Z,
+2016341519,12500000,"121 King Arthur Terrace, Tennyson QLD 4105",Tennyson,153.002581,-27.5242867,3593,10,8,5,2021-11-27T02:55:08.77Z,2020-06-29T23:36:00Z,Air conditioning|Alarm System|Balcony / Deck|Built in wardrobes|Garden / Courtyard|Dishwasher|Gym|Swimming Pool|Outdoor Spa|Study|Tennis Court|Water Views
+2016826166,1436000,"62 & 66 Curzon Street, Tennyson QLD 4105",Tennyson,153.0050542,-27.5293115,811,2,1,0,2022-01-23T23:01:36.077Z,2021-02-25T03:47:24Z,
+2017415261,795000,"44 Lancelot Street, Tennyson QLD 4105",Tennyson,152.9996231,-27.5266034,524,2,1,1,2022-02-16T01:56:31.54Z,2021-11-16T04:59:44Z,
+2017160689,935000,"134 King Arthur Terrace, Tennyson QLD 4105",Tennyson,153.0040822,-27.524874,647,4,2,2,2021-07-29T00:52:59.083Z,2021-07-29T00:52:59Z,
+2017323227,1825000,"21 Camelot Street, Tennyson QLD 4105",Tennyson,152.9996777,-27.5252598,954,4,2,2,2021-11-04T03:35:24.897Z,2021-10-13T23:11:31Z,
+2017600027,815990,"4 David Street, Tennyson QLD 4105",Tennyson,153.0019401,-27.5259086,706,2,1,1,2022-03-25T05:05:36.13Z,2022-02-16T05:57:36Z,
+2017440743,3115000,"42 King Arthur Terrace, Tennyson QLD 4105",Tennyson,152.9981791,-27.5249315,1067,6,6,3,2022-03-15T07:42:08.347Z,2021-11-24T03:13:02Z,
+2016888488,780000,"56 Lancelot Street, Tennyson QLD 4105",Tennyson,152.9989908,-27.5266937,405,4,2,2,2021-05-17T04:32:16.597Z,2021-03-24T00:50:47Z,
+2018052097,800000,"59 Lancelot Street, Tennyson QLD 4105",Tennyson,152.9982895,-27.5262825,675,2,1,3,2022-11-28T03:20:13.38Z,2022-09-07T04:46:48Z,Investment|Golf|Garden|Dishwasher|Outdoor Entertaining|Shed|Fully Fenced|Builtin Robes
+2018712716,1610000,"21 Vivian Street, Tennyson QLD 4105",Tennyson,152.9967981,-27.525535,544,3,2,2,2023-10-31T00:23:55.45Z,2023-08-17T11:07:48Z,
+2018125688,1205000,"19 Merlin Street, Tennyson QLD 4105",Tennyson,153.0012027,-27.525044,405,4,2,2,2022-11-21T00:13:05.327Z,2022-11-17T05:11:08Z,Air conditioning|Balcony / Deck|Built in wardrobes|Carpets|Close to Schools|Close to Shops|Close to Transport|Dishwasher|Dual living|Fully fenced|Modern|Outdoor Entertaining|Secure Parking|Tiled throughout|Walk-in robes
+2018099077,560000,"28 Lancelot Street, Tennyson QLD 4105",Tennyson,153.0005244,-27.5263533,448,3,2,1,2023-02-01T00:18:48.16Z,2022-09-29T05:57:08Z,Deck|Fully Fenced|Outdoor Entertainment Area|Shed|Swimming Pool - In Ground|Alarm System|Broadband Internet Available|Built-in Wardrobes|Floorboards|Pay TV Access|Study|Workshop|Air Conditioning|Solar Panels
+2018706053,930000,"23 Gerlee Street, Tennyson QLD 4105",Tennyson,152.9977682,-27.5274872,494,4,3,2,2023-12-22T06:03:55.87Z,2023-08-15T05:01:43Z,Pet Friendly
+2018634745,1250000,"69 Lancelot Street, Tennyson QLD 4105",Tennyson,152.9977653,-27.5262431,407,4,2,2,2023-09-07T05:11:14.89Z,2023-07-10T02:26:05Z,Air conditioning|Broadband internet access|Built in wardrobes|Dishwasher|Electric Hot Water Service|Fully fenced|Outdoor Entertaining|Swimming Pool|Remote Garage|Rumpus Room|Secure Parking|Solar Hot Water|Outdoor Spa|Heating|Study|Ensuite
+2019005221,850000,"33 Lancelot Street, Tennyson QLD 4105",Tennyson,152.9995927,-27.5261698,607,4,2,2,2024-02-23T05:50:39.727Z,2024-01-23T06:10:29Z,
+2017682876,1520000,"60 King Arthur Terrace, Tennyson QLD 4105",Tennyson,152.9989879,-27.5248616,405,4,2,2,2022-04-03T22:59:51.113Z,2022-04-03T22:55:08Z,Built in wardrobes|Fully fenced|Swimming Pool
+2017799382,1570000,"128 King Arthur Terrace, Tennyson QLD 4105",Tennyson,153.0035596,-27.5249535,647,5,2,2,2022-07-06T06:08:25.653Z,2022-05-11T23:00:40Z,Pet Friendly

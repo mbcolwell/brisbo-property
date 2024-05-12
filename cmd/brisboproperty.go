@@ -15,11 +15,12 @@ func main() {
 	flag.StringVar(&dataCsvPath, "data_csv_path", "data.csv", "Location of data csv")
 	flag.Parse()
 
+	extract_url := "https://www.domain.com.au/sold-listings/brisbane-region-qld/house/?excludepricewithheld=1&page=%d"
 	houses := []brisboproperty.ScrapedHouse{}
 	wg := new(sync.WaitGroup)
-	for i := 0; i < 51; i++ {
+	for i := 1; i <= 50; i++ {
 		wg.Add(1)
-		go brisboproperty.ExtractHouses(i, wg, &houses)
+		go brisboproperty.ExtractHouses(i, wg, &houses, extract_url)
 	}
 	wg.Wait()
 
