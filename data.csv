@@ -1076,46 +1076,6 @@ id,price,address,suburb,longitude,latitude,area,beds,baths,cars,dateListed,dateS
 2019094627,1125000,"22 Stromlo Street, Everton Park QLD 4053",Everton Park,152.9791379,-27.396018,690,3,3,1,2024-04-10T10:31:32.9Z,2024-03-04T09:55:28Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|Carpeted|Dishwasher
 2019112961,920000,"667 Stafford Road, Everton Park QLD 4053",Everton Park,152.9968614,-27.4071382,607,3,2,2,2024-04-23T00:40:30.663Z,2024-03-13T00:09:24Z,
 2019034614,3550000,"72 Arnold Street, Holland Park QLD 4121",Holland Park,153.0651019,-27.5166028,605,5,3,3,2024-04-23T04:51:32.707Z,2024-02-06T07:40:23Z,Air conditioning|Alarm System|Balcony / Deck|Built in wardrobes|Dishwasher|Intercom|Outdoor Entertaining|Swimming Pool|Remote Garage
-2019228664,650000,,,0,0,0,0,0,0,,,
-2019235494,1650000,,,0,0,0,0,0,0,,,
-2019218184,1190000,,,0,0,0,0,0,0,,,
-2019211300,850000,,,0,0,0,0,0,0,,,
-2019227063,765000,,,0,0,0,0,0,0,,,
-2019214287,1700000,,,0,0,0,0,0,0,,,
-2019209710,2200000,,,0,0,0,0,0,0,,,
-2019228822,1375000,,,0,0,0,0,0,0,,,
-2019212819,932500,,,0,0,0,0,0,0,,,
-2019216304,1020000,,,0,0,0,0,0,0,,,
-2019208910,3150000,,,0,0,0,0,0,0,,,
-2019211348,1655000,,,0,0,0,0,0,0,,,
-2019213487,2605000,,,0,0,0,0,0,0,,,
-2019214148,980000,,,0,0,0,0,0,0,,,
-2019212766,972000,,,0,0,0,0,0,0,,,
-2019235500,1200000,,,0,0,0,0,0,0,,,
-2019227471,650000,,,0,0,0,0,0,0,,,
-2019210272,2000000,,,0,0,0,0,0,0,,,
-2019233819,790000,,,0,0,0,0,0,0,,,
-2019209752,1625888,,,0,0,0,0,0,0,,,
-2019209729,888000,,,0,0,0,0,0,0,,,
-2019214983,1670000,,,0,0,0,0,0,0,,,
-2019235179,1230000,,,0,0,0,0,0,0,,,
-2019235523,1825000,,,0,0,0,0,0,0,,,
-2019235530,1280000,,,0,0,0,0,0,0,,,
-2019221342,1235000,,,0,0,0,0,0,0,,,
-2019230452,900000,,,0,0,0,0,0,0,,,
-2019233687,1300000,,,0,0,0,0,0,0,,,
-2019227378,1200000,,,0,0,0,0,0,0,,,
-2019226650,985000,,,0,0,0,0,0,0,,,
-2019221915,720000,,,0,0,0,0,0,0,,,
-2019232074,1080000,,,0,0,0,0,0,0,,,
-2019221145,750000,,,0,0,0,0,0,0,,,
-2019235512,1265000,,,0,0,0,0,0,0,,,
-2019235979,1020000,,,0,0,0,0,0,0,,,
-2019210253,1410000,,,0,0,0,0,0,0,,,
-2019231326,1410000,,,0,0,0,0,0,0,,,
-2019237065,1800000,,,0,0,0,0,0,0,,,
-2019235425,1300000,,,0,0,0,0,0,0,,,
-2019217862,1420000,,,0,0,0,0,0,0,,,
 2019035536,1940000,"15 Kirkland Avenue, Coorparoo QLD 4151",Coorparoo,153.0525878,-27.5030569,610,4,1,2,2024-04-18T23:26:32.64Z,2024-02-07T00:42:52Z,
 2019188150,1433000,"4 Servius Avenue, Seven Hills QLD 4170",Seven Hills,153.0755881,-27.4823255,607,3,1,1,2024-04-26T05:43:40.373Z,2024-04-17T05:12:14Z,
 2019191743,732000,"41 Sedgemoor Street, Carseldine QLD 4034",Carseldine,153.0151487,-27.3416373,355,3,2,2,2024-04-22T01:18:07.627Z,2024-04-18T06:22:41Z,
@@ -1296,3 +1256,424 @@ id,price,address,suburb,longitude,latitude,area,beds,baths,cars,dateListed,dateS
 2019005221,850000,"33 Lancelot Street, Tennyson QLD 4105",Tennyson,152.9995927,-27.5261698,607,4,2,2,2024-02-23T05:50:39.727Z,2024-01-23T06:10:29Z,
 2017682876,1520000,"60 King Arthur Terrace, Tennyson QLD 4105",Tennyson,152.9989879,-27.5248616,405,4,2,2,2022-04-03T22:59:51.113Z,2022-04-03T22:55:08Z,Built in wardrobes|Fully fenced|Swimming Pool
 2017799382,1570000,"128 King Arthur Terrace, Tennyson QLD 4105",Tennyson,153.0035596,-27.5249535,647,5,2,2,2022-07-06T06:08:25.653Z,2022-05-11T23:00:40Z,Pet Friendly
+2019185135,1385000,"6 Letizia Close, Chermside West QLD 4032",Chermside West,153.0160225,-27.3926978,653,4,2,2,2024-04-22T01:56:07.067Z,2024-04-16T06:16:06Z,Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|Carpeted|Dishwasher
+2019117052,1185000,"29 Avondale Road, Sinnamon Park QLD 4073",Sinnamon Park,152.9448419,-27.5456708,778,4,2,2,2024-04-23T06:13:55.037Z,2024-03-14T02:40:26Z,
+2019183565,4775000,"46 Lovedale Street, Wilston QLD 4051",Wilston,153.0160061,-27.4299277,809,5,4,2,2024-04-23T21:08:11.933Z,2024-04-16T01:30:16Z,Ensuite
+2019080127,945000,"65 Liverpool Street, Eight Mile Plains QLD 4113",Eight Mile Plains,153.0952782,-27.5747966,458,3,2,2,2024-03-23T07:39:07.93Z,2024-02-27T01:19:16Z,
+2019156206,1152000,"47 Falconglen Place, Ferny Grove QLD 4055",Ferny Grove,152.9225455,-27.3980077,954,3,2,4,2024-04-11T05:53:36.383Z,2024-04-03T03:16:00Z,
+2019085033,1250000,"13 Wells Place, Hemmant QLD 4174",Hemmant,153.142058,-27.4579808,623,5,2,4,2024-04-10T01:04:40.5Z,2024-02-28T05:48:10Z,Air conditioning|Ensuite|Built in wardrobes|Internal Laundry|Broadband internet access|Bath|Dishwasher|Secure Parking|Fully fenced|Balcony / Deck|Garden / Courtyard|Swimming Pool|Water efficient appliances|Wall / ceiling insulation|Rainwater storage tank|Solar panels
+2019126286,1027500,"7 Hannam Crescent, Forest Lake QLD 4078",Forest Lake,152.9476004,-27.6266501,640,4,2,4,2024-04-24T00:14:01.767Z,2024-03-19T04:35:59Z,Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|Carpeted|Broadband Internet Available|Pay TV Access|Dishwasher|Fully Fenced
+2019199359,725000,"4/121 Archdale Road, Ferny Grove QLD 4055",Ferny Grove,152.9324421,-27.3981761,204,3,2,1,2024-04-23T04:43:42.543Z,2024-04-23T04:43:42Z,
+2019108467,1120000,"39 Floramy Street, Boondall QLD 4034",Boondall,153.060287,-27.3579064,564,4,2,3,2024-04-11T03:14:47.343Z,2024-03-11T06:18:01Z,Air conditioning|Balcony / Deck|Electric Hot Water Service|Floorboards|Fully fenced|Outdoor Entertaining|Rainwater storage tank
+2019095590,760000,"33 Gordon Circuit, Warner QLD 4500",Warner,152.9567496,-27.3121957,321,3,2,1,2024-04-11T23:01:40.29Z,2024-03-05T01:55:35Z,Air conditioning|Built in wardrobes|Dishwasher|Separate Laundry|Shed
+2018336139,2145000,"204 Sugars Road, Anstead QLD 4070",Anstead,152.8710659,-27.5543683,0,6,3,2,2024-04-04T23:09:20.367Z,2023-02-06T23:40:50Z,Ensuite|Built in wardrobes|Internal Laundry|Pets allowed|Heating|Dishwasher|Study|Secure Parking|Balcony / Deck|Swimming Pool|Water efficient appliances
+2019173291,1770000,"84 Hamlet Street, Annerley QLD 4103",Annerley,153.0351501,-27.5228229,883,4,2,6,2024-04-27T04:36:09.247Z,2024-04-10T06:50:38Z,Ensuite
+2019203411,1900000,"84 Prospect Street, Wynnum QLD 4178",Wynnum,153.1668313,-27.4333093,405,5,3,2,2024-04-27T09:42:39.633Z,2024-04-24T06:18:00Z,
+2019155866,1300000,"33 Ironwood Street, Aspley QLD 4034",Aspley,153.0086642,-27.3718352,631,3,2,4,2024-04-09T00:17:31.043Z,2024-04-03T02:18:58Z,
+2019161565,1050000,"30 Mauritius Parade, Forest Lake QLD 4078",Forest Lake,152.9672212,-27.6237057,351,4,2,2,2024-04-19T00:20:47.47Z,2024-04-04T23:23:52Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|Exhaust|Study
+2019101149,1015000,"8 Mungarie Street, Keperra QLD 4054",Keperra,152.9421754,-27.4198599,730,4,2,2,2024-04-02T03:33:30.88Z,2024-03-06T23:58:27Z,
+2019125610,1255000,"34 Felstead Street, Everton Park QLD 4053",Everton Park,152.9881544,-27.3993176,809,3,1,2,2024-04-18T00:43:35.807Z,2024-03-19T02:19:57Z,
+2019153787,1200000,"3 Macedon Street, Wavell Heights QLD 4012",Wavell Heights,153.0459642,-27.391629,627,3,1,2,2024-04-24T06:39:45.357Z,2024-04-02T05:41:57Z,High-set
+2019169722,949400,"14 Harold Street, Zillmere QLD 4034",Zillmere,153.0470681,-27.3589516,412,4,2,2,2024-04-26T02:25:47.337Z,2024-04-09T06:12:48Z,Ceiling Fans|Balcony / Deck|Dishwasher|Fully fenced|High-set|Air conditioning
+2018954343,839888,"63 Mount Moogerah Drive, Algester QLD 4115",Algester,153.0342932,-27.5997424,0,3,2,2,2024-04-11T23:17:41.92Z,2023-12-13T01:32:31Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|Dishwasher|Study
+2019141418,1480000,"55 Kilmorey Street, Carindale QLD 4152",Carindale,153.1102953,-27.5105415,634,5,3,3,2024-04-18T12:59:45.52Z,2024-03-26T01:56:53Z,Air conditioning|Outdoor Entertaining
+2019083553,1301000,"29 Atrium Way, Everton Hills QLD 4053",Everton Hills,152.9621888,-27.3900182,687,5,3,2,2024-04-26T07:20:27.953Z,2024-02-28T02:09:30Z,
+2019167946,875000,"36 Kedron Street, Kedron QLD 4031",Kedron,153.0337593,-27.3992657,405,3,1,2,2024-04-11T23:45:51.91Z,2024-04-08T23:57:57Z,Fully Fenced|Broadband Internet Available
+2019138913,1495000,"32 Windsor Place, Carindale QLD 4152",Carindale,153.113431,-27.5259307,633,3,2,2,2024-04-15T02:09:49.853Z,2024-03-25T02:28:37Z,Ensuite|AC|Intercom|Deck|Study|Garden|Dishwasher|Ducted Cooling|Ducted Heating|Outdoor Entertaining|Fully Fenced|Remote Garage|Builtin Robes
+2019140019,1500000,"12 Lindeman Place, Eight Mile Plains QLD 4113",Eight Mile Plains,153.1018618,-27.5720878,962,4,2,2,2024-04-15T04:10:24.193Z,2024-03-25T06:58:55Z,Ensuite|AC|Study|Dishwasher|Split System AC|Outdoor Entertaining|Shed|Remote Garage|Builtin Robes|Secure Parking|Solar Panels
+2019184373,1300000,"44 Boonaree Street, Sunnybank QLD 4109",Sunnybank,153.0596516,-27.5737708,577,3,2,3,2024-04-18T01:22:13.5Z,2024-04-16T04:13:28Z,
+2019178783,2000000,"15 Anzac Avenue, Sandgate QLD 4017",Sandgate,153.0591196,-27.3124194,792,5,3,4,2024-04-27T06:11:32.013Z,2024-04-12T05:41:55Z,
+2019188684,1270000,"18 Camden Street, Albion QLD 4010",Albion,153.0439863,-27.4275958,405,2,1,1,2024-04-21T23:04:24.82Z,2024-04-17T06:33:38Z,Air conditioning|Floorboards|Internal Laundry|Separate Dining Room|Dishwasher|Study|Secure Parking|Garden / Courtyard
+2019180998,2875000,"47 Thirteenth Avenue, Kedron QLD 4031",Kedron,153.0381679,-27.4038102,607,5,3,2,2024-04-26T05:32:13.56Z,2024-04-15T01:44:59Z,Air conditioning|Ensuite|Built in wardrobes|Separate Dining Room|Secure Parking|Swimming Pool
+2019189922,2120000,"58 Twelfth Avenue, Kedron QLD 4031",Kedron,153.0385701,-27.404293,610,3,2,3,2024-04-27T12:40:11.213Z,2024-04-18T00:57:40Z,
+2019189800,1110000,"277 Verney Road East, Graceville QLD 4075",Graceville,152.9853092,-27.5219142,405,2,1,1,2024-04-27T04:26:50.507Z,2024-04-18T00:29:45Z,Floorboards|Internal Laundry|Shed|Garden / Courtyard|North Facing
+2019181709,2124000,"44 Muir Street, Cannon Hill QLD 4170",Cannon Hill,153.0886993,-27.4704665,405,5,3,2,2024-04-25T08:09:51.437Z,2024-04-15T04:31:35Z,Air conditioning|Built in wardrobes|Close to Schools|Close to Shops|Close to Transport|Contemporary|Dishwasher|Fully fenced|Modern (last 3 years)|New-build|Outdoor Entertaining|Swimming Pool|Remote Garage|Rumpus Room|Study|Timber Floors
+2019207846,1190000,"76 Malbon Street, Eight Mile Plains QLD 4113",Eight Mile Plains,153.0780537,-27.5781118,645,4,2,2,2024-04-27T02:51:47.427Z,2024-04-27T02:51:47Z,Fully Fenced|Remote Garage|Secure Parking|Shed|Dishwasher|Air Conditioning|Ducted Cooling|Ducted Heating
+2019195560,750000,"35 Hinchinbrook Circuit, Forest Lake QLD 4078",Forest Lake,152.9805212,-27.6373209,320,3,2,2,2024-04-21T23:40:00.54Z,2024-04-21T23:40:00Z,Air Conditioning|Built-In Wardrobes|Close to Schools|Close to Shops|Close to Transport|Ensuite|Courtyard|Fully Fenced|Swimming Pool - Below Ground|Water Tank|Study
+2019198313,1050000,"88 Garrett Street, Murarrie QLD 4172",Murarrie,153.1049175,-27.4621835,523,3,1,2,2024-04-27T14:47:55.133Z,2024-04-23T00:59:55Z,Balcony|Dishwasher|Fully Fenced|Builtin Robes|Secure Parking
+2019123977,1815000,"160 Evelyn Street, Grange QLD 4051",Grange,153.0134011,-27.4251748,405,4,3,1,2024-04-15T23:42:12.327Z,2024-03-18T05:41:35Z,
+2019096653,855000,Warner QLD 4500,Warner,0,0,501,4,2,4,2024-04-23T03:24:42.327Z,2024-03-05T05:19:31Z,
+2019130748,1200000,"19 Griffin Place, Nudgee QLD 4014",Nudgee,153.0934787,-27.3655018,701,4,2,2,2024-04-19T01:17:16.21Z,2024-03-20T07:26:43Z,
+2018933746,2450000,"140 Shorncliffe Parade, Shorncliffe QLD 4017",Shorncliffe,153.086491,-27.3262759,445,4,3,2,2024-04-11T01:28:04.153Z,2023-11-29T21:36:56Z,Balcony|Deck|Fully Fenced|Outdoor Entertainment Area|Built-in Wardrobes|Dishwasher|Gym|Workshop|Air Conditioning|Ensuite
+2019029593,950000,"6 Mumbil Street, Stafford Heights QLD 4053",Stafford Heights,153.0145113,-27.4030156,598,3,1,1,2024-04-22T01:13:54.643Z,2024-02-05T00:46:55Z,Balcony / Deck|First Home Buyer|Floorboards|Secure Parking|Workshop
+2018868747,1584000,"505 Old Cleveland Road, Camp Hill QLD 4152",Camp Hill,153.0710224,-27.4917324,810,4,3,2,2024-04-15T02:07:24.44Z,2023-10-31T00:02:13Z,Air conditioning|First Home Buyer|Furnished|City Views
+2019175710,1200000,"33 Emma Street, Red Hill QLD 4059",Red Hill,153.0033296,-27.4462611,326,3,1,1,2024-04-23T00:44:47.273Z,2024-04-11T04:48:32Z,
+2019075243,1345000,"16 Soudan Street, Toowong QLD 4066",Toowong,152.9802453,-27.4848793,405,4,2,2,2024-04-25T02:11:35.233Z,2024-02-23T05:12:56Z,
+2019208446,2000000,"Suite 11A/287 Military Road, Cremorne NSW 2090",Cremorne,151.2296291,-33.8287612,594,0,0,3,2024-05-08T00:34:19.003Z,2024-05-08T00:33:56Z,Air conditioning|Alarm System|Intercom
+2019046747,1710000,"3 Matt Street, Sunnybank QLD 4109",Sunnybank,153.0589338,-27.571733,703,3,2,2,2024-04-02T06:16:05.317Z,2024-02-12T06:54:21Z,AC|Deck|Dishwasher|Split System AC|Remote Garage|Builtin Robes|Secure Parking
+2019126453,980000,"30 Fernlea Street, Geebung QLD 4034",Geebung,153.0364774,-27.3702403,607,4,1,4,2024-04-11T03:36:17.5Z,2024-03-19T05:05:44Z,Air conditioning|Floorboards|Built in wardrobes|Gas|Bath|Gas|Dishwasher|Study|Secure Parking|Balcony / Deck|Rainwater storage tank|Solar hot water|Solar panels
+2019116100,1200000,"30 Paragon Street, Yeronga QLD 4104",Yeronga,153.0130975,-27.5223557,257,3,2,2,2024-04-20T21:40:14.643Z,2024-03-13T23:36:20Z,
+2018881944,2650000,"156 Mein Street, Hendra QLD 4011",Hendra,153.0639776,-27.425139,632,4,3,4,2024-04-23T01:36:09.617Z,2023-11-06T01:00:53Z,Air conditioning|Balcony / Deck|Garden / Courtyard|Dishwasher|Floorboards|Outdoor Entertaining|Rumpus Room|Study
+2019147011,1450000,"37 Moffat Street, Milton QLD 4064",Milton,153.0021705,-27.464298,490,3,1,2,2024-04-18T23:56:10.37Z,2024-03-28T01:11:40Z,
+2019189285,1800000,"26 Burrowa Street, Stafford QLD 4053",Stafford,153.0128416,-27.4052867,400,4,2,2,2024-04-26T07:03:59.467Z,2024-04-17T10:48:52Z,Built in wardrobes|Balcony / Deck|Dishwasher|Fully fenced|Outdoor Entertaining|Remote Garage|Rumpus Room
+2019128726,970000,"59 Hemmant-Tingalpa Road, Hemmant QLD 4174",Hemmant,153.1267495,-27.448467,642,3,1,4,2024-04-04T01:24:21.457Z,2024-03-20T02:10:37Z,
+2019024969,1640000,"54 Manchester Terrace, Indooroopilly QLD 4068",Indooroopilly,152.9748565,-27.4952485,810,5,3,2,2024-04-14T22:46:30.68Z,2024-02-01T05:41:41Z,
+2019170741,1450000,"17 Blackwood Street, Sherwood QLD 4075",Sherwood,152.9854814,-27.5295325,404,3,2,2,2024-04-15T07:20:25.23Z,2024-04-09T23:21:54Z,
+2019156990,897000,"29 Fahey Street, Zillmere QLD 4034",Zillmere,153.0510097,-27.3535799,685,3,2,3,2024-04-22T23:00:02.843Z,2024-04-03T05:19:24Z,
+2019018134,1800000,"121 Main Avenue, Wavell Heights QLD 4012",Wavell Heights,153.0474352,-27.3835384,405,5,3,2,2024-04-02T23:06:56.31Z,2024-01-30T06:10:08Z,Air conditioning|Built in wardrobes|Balcony / Deck|Dishwasher|Heating|Fully fenced|Remote Garage
+2019180277,980000,"370 Enoggera Road, Alderley QLD 4051",Alderley,153.0049755,-27.4301263,554,3,2,4,2024-04-24T06:42:01.917Z,2024-04-14T23:14:29Z,Air conditioning|Ensuite|Floorboards|Pets allowed|Bath|Fully fenced|Balcony / Deck
+2019195587,1102500,"1 Redgrave Street, Stafford Heights QLD 4053",Stafford Heights,152.998293,-27.3986835,671,3,1,4,2024-04-21T23:51:46.59Z,2024-04-21T23:51:46Z,
+2019101695,1670000,"66 Linkwood Drive, Ferny Hills QLD 4055",Ferny Hills,152.929487,-27.3878898,1262,5,3,2,2024-03-21T00:24:37.777Z,2024-03-07T01:52:52Z,Ensuite
+2019117392,1700000,"33 Stanmere Street, Carindale QLD 4152",Carindale,153.1069485,-27.5126197,634,4,3,2,2024-04-02T07:23:20.147Z,2024-03-14T03:36:57Z,Air conditioning|Built in wardrobes|Internal Laundry|Bath|Dishwasher|Secure Parking|Shed|Garden / Courtyard|Swimming Pool
+2019203095,1128000,"16 Sturt Place, Drewvale QLD 4116",Drewvale,153.0576476,-27.6554507,610,4,2,2,2024-04-24T10:29:36.54Z,2024-04-24T05:43:42Z,Heating|Built-In Wardrobes|Alarm System|Pool|Close to Schools|Ensuite|Ceiling Fans|Air Con - Split System
+2019166086,1000000,"40 Frederick Street, Albany Creek QLD 4035",Albany Creek,152.971187,-27.3642903,776,4,2,4,2024-04-23T06:58:11.707Z,2024-04-08T05:06:37Z,Aspect North|Electric Cook Top|Electric Hot Water Service|Fully fenced|Medium Yard|NBN HFC|Outdoor Entertaining|Shed|Air conditioning
+2019176610,3500000,"678 Boston Road, Chandler QLD 4155",Chandler,153.1642311,-27.5070654,20200,4,3,4,2024-04-22T19:49:07.44Z,2024-04-11T07:08:33Z,Ensuite
+2019192116,700000,"58 O'Quinn Street, Nudgee Beach QLD 4014",Nudgee Beach,153.1026855,-27.3460892,789,1,1,2,2024-04-21T22:33:02.117Z,2024-04-18T07:27:02Z,Outdoor entertainment area|Fully fenced|Reverse cycle air conditioning
+2019116808,763000,"11 Olympus Court, Eatons Hill QLD 4037",Eatons Hill,152.9596462,-27.3391242,670,3,1,2,2024-04-19T02:06:19.45Z,2024-03-14T02:00:30Z,
+2019159861,1722000,"14 Treacher Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0771752,-27.5478244,696,6,2,3,2024-04-22T01:53:58.327Z,2024-04-04T04:20:02Z,Ensuite|Balcony|Garden|Dishwasher|Ducted Heating|Fully Fenced|Builtin Robes
+2019135393,963000,"68 Narellan Street, Arana Hills QLD 4054",Arana Hills,152.9520141,-27.395133,733,3,2,2,2024-04-02T03:29:25.77Z,2024-03-22T00:11:44Z,
+2019015676,1242000,"64 Crown Street, Wynnum QLD 4178",Wynnum,153.1660489,-27.4319596,405,4,2,1,2024-02-05T01:14:27.9Z,2024-01-29T10:11:23Z,Air conditioning|Ensuite|Floorboards|Built in wardrobes|Pets allowed|Bath|Dishwasher|Shed|Fully fenced|Balcony / Deck|Garden / Courtyard|Rainwater storage tank|character charms|beautiful private garden|close to water and parks
+2019132754,1099000,"15 Donnelly Court, Sinnamon Park QLD 4073",Sinnamon Park,152.9456194,-27.5509992,742,4,2,1,2024-04-22T02:36:02.403Z,2024-03-21T02:49:55Z,
+2019020828,2180000,"48 Kempsie Road, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0832409,-27.5480799,405,5,3,2,2024-04-24T03:05:40.353Z,2024-01-31T04:58:56Z,Air conditioning|Alarm System|Balcony / Deck|Built in wardrobes|Dishwasher|Heating|Fully fenced|Outdoor Entertaining|Swimming Pool|Remote Garage|Secure Parking
+2019117773,1180000,"47/187 Murphy Road, Geebung QLD 4034",Geebung,153.0352873,-27.3674031,750,5,3,2,2024-04-15T06:24:23.267Z,2024-03-14T04:38:48Z,
+2019164393,1010000,"20 Boulter Street, Aspley QLD 4034",Aspley,153.0286242,-27.3714051,574,4,2,2,2024-04-22T02:02:48.057Z,2024-04-07T03:37:49Z,Air Conditioning|Area Views|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Floorboards
+2019087261,2900000,"143 Enoggera Terrace, Paddington QLD 4064",Paddington,153.0006628,-27.458081,534,4,3,4,2024-04-09T01:47:59.583Z,2024-02-29T03:16:05Z,Ensuite|Study|Air-Conditioner|Remote Garage|Secure Parking|Deck|Fully Fenced|Solar Panel|Water Tank
+2019126363,1968800,"19A Arrol Street, Camp Hill QLD 4152",Camp Hill,153.0826586,-27.4918529,312,5,3,2,2024-04-27T00:08:11.413Z,2024-03-19T04:49:24Z,Floorboards|Built in wardrobes|Internal Laundry|Bath|Secure Parking|Fully fenced|Swimming Pool
+2019157827,765000,"171 Kensington Way, Bray Park QLD 4500",Bray Park,152.9731641,-27.2956404,726,3,2,3,2024-04-12T02:19:42.903Z,2024-04-03T09:14:30Z,
+2019006924,2800000,"54 Jessie Wadsworth Street, Cowan Cowan QLD 4025",Cowan Cowan,153.3664708,-27.1235874,546,2,2,5,2024-03-26T01:08:22.82Z,2024-01-24T02:41:41Z,Air conditioning|Ensuite|Built in wardrobes|Pets allowed|Fireplace(s)|Heating|Study|Secure Parking|Shed|Balcony / Deck|Garden / Courtyard|Ground floor|North Facing|Water efficient appliances|Rainwater storage tank|Solar panels|absolute beachfront access
+2019180830,935000,"28 Blackburn Street, Moorooka QLD 4105",Moorooka,153.0151487,-27.5375831,493,3,1,2,2024-04-24T14:49:42.357Z,2024-04-15T01:04:42Z,AC|Deck|Split System AC|Fully Fenced|Floorboards
+2019187155,1150000,"44 Henry Street, Chermside QLD 4032",Chermside,153.0299995,-27.3910554,635,3,1,2,2024-04-24T20:39:09.123Z,2024-04-17T02:38:33Z,
+2019188185,3200000,"87 Payne Street, Auchenflower QLD 4066",Auchenflower,152.9906375,-27.4693799,674,4,3,2,2024-04-27T06:55:10.67Z,2024-04-17T05:17:38Z,Air conditioning|Floorboards|Built in wardrobes|Pets allowed|Bath|Dishwasher|Secure Parking|Fully fenced|Balcony / Deck|Garden / Courtyard|Swimming Pool
+2019133071,850000,"26 Pine Valley Drive, Joyner QLD 4500",Joyner,152.9534853,-27.2759029,630,4,2,2,2024-04-15T06:21:45.283Z,2024-03-21T03:33:11Z,Built-In Wardrobes|Ceiling fan/s|Covered Entertainment Area|Dishwasher|Ensuite|Fully Fenced|Garden Shed|Off street parking|Outdoor Ent.|Rainwater Tank|Remote Garage Opener|Second living room|Side Access for Vehicles|Split System AirCon
+2019095087,4340000,"27 Crown Street, Bardon QLD 4065",Bardon,152.9831484,-27.4534887,810,5,3,2,2024-03-17T23:07:33.987Z,2024-03-04T23:55:11Z,
+2019150429,1725000,"4 Boswell Terrace, Wynnum QLD 4178",Wynnum,153.1800517,-27.4468727,405,4,3,2,2024-04-22T03:47:43.63Z,2024-03-30T04:15:15Z,Air conditioning|Floorboards|Built in wardrobes|Internal Laundry|Pets allowed|Gas|Bath|Gas|Dishwasher|Study|Secure Parking|Shed|Balcony / Deck|Garden / Courtyard|Swimming Pool|Water Views|Solar hot water|Solar panels
+2019196266,850000,"2 Fir Place, Warner QLD 4500",Warner,152.9467518,-27.2937874,731,4,2,2,2024-04-23T05:15:14.03Z,2024-04-22T02:57:55Z,
+2019162324,2350000,"13 Brydon Street, Highgate Hill QLD 4101",Highgate Hill,153.0161145,-27.4882953,400,4,2,2,2024-04-27T04:11:02.917Z,2024-04-05T02:24:09Z,Air conditioning|Built in wardrobes|Fully fenced|Swimming Pool
+2019140629,1175000,"11 Edward Place, Sinnamon Park QLD 4073",Sinnamon Park,152.9461162,-27.5421657,710,4,2,2,2024-03-28T06:08:21.297Z,2024-03-25T23:10:43Z,Pet Friendly
+2019160423,4825000,"10 Bulimba Street, Bulimba QLD 4171",Bulimba,153.0555547,-27.4502444,693,5,5,6,2024-04-27T06:55:26.35Z,2024-04-04T05:43:00Z,
+2019076610,1400000,"38 Fifth Avenue, Sandgate QLD 4017",Sandgate,153.0694186,-27.3167171,546,4,2,1,2024-04-17T10:48:16.187Z,2024-02-25T06:41:50Z,Air conditioning|Ensuite|Floorboards|Built in wardrobes|Dishwasher|Secure Parking|Shed|Fully fenced|Balcony / Deck
+2019180481,1800000,"9 Paramount Terrace, Seven Hills QLD 4170",Seven Hills,153.0708379,-27.4763895,688,5,3,1,2024-04-22T05:50:07.233Z,2024-04-15T00:17:45Z,
+2019198847,1071000,"180 Englefield Road, Oxley QLD 4075",Oxley,152.9675041,-27.5594861,630,4,2,2,2024-04-24T03:45:09.5Z,2024-04-23T02:54:52Z,
+2019208450,2642000,"9 Connecticut Avenue, Strathfield NSW 2135",Strathfield,151.0823822,-33.8774262,380,1,1,2,2024-05-08T00:35:25.15Z,2024-05-08T00:35:25Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Intercom|Car Parking - Basement
+2019184877,915000,"2 Worrell Street, Macgregor QLD 4109",Macgregor,153.0733421,-27.558732,640,3,1,2,2024-04-25T02:48:53.557Z,2024-04-16T05:32:14Z,
+2019190778,1690000,"1/16 Wellington Road, Red Hill QLD 4059",Red Hill,153.0070888,-27.4572091,770,5,3,3,2024-04-27T06:11:57.62Z,2024-04-18T03:46:29Z,
+2019171923,1165000,"16 Emcona Street, Tingalpa QLD 4173",Tingalpa,153.1234786,-27.4722143,607,3,2,3,2024-04-27T00:51:45.92Z,2024-04-10T03:28:32Z,Air conditioning|Floorboards|Built in wardrobes|Pets allowed|Broadband internet access|Dishwasher|Shed|Fully fenced|Balcony / Deck|Garden / Courtyard|Rainwater storage tank|Solar panels
+2019193816,1650000,"33 Salstone Street, Kangaroo Point QLD 4169",Kangaroo Point,153.0399387,-27.4798249,280,4,3,3,2024-04-22T02:39:02.98Z,2024-04-19T04:40:44Z,
+2019132910,1700000,"2343 Wynnum Road, Wynnum QLD 4178",Wynnum,153.1630115,-27.4388402,926,6,3,5,2024-04-23T04:55:35.377Z,2024-03-21T03:13:05Z,
+2019117934,850000,"3 Thumon Court, Bald Hills QLD 4036",Bald Hills,153.0178162,-27.3079261,854,4,1,4,2024-04-17T06:20:50.417Z,2024-03-14T05:04:23Z,
+2019133887,1103000,"14 Cranwood Court, Ferny Hills QLD 4055",Ferny Hills,152.9401526,-27.3841832,750,4,2,2,2024-04-22T03:08:32.717Z,2024-03-21T05:29:49Z,
+2019126036,1530000,"6 Wentworth Court, Mount Ommaney QLD 4074",Mount Ommaney,152.9384516,-27.5443324,1469,4,2,2,2024-04-18T04:20:28.69Z,2024-03-19T03:49:38Z,Air Conditioning|Close to Transport|Close to Shops|Close to Schools|Ensuite
+2019181267,1840000,"7 Newman Avenue, Camp Hill QLD 4152",Camp Hill,153.0687136,-27.4981221,405,4,3,2,2024-04-26T04:04:56.21Z,2024-04-15T02:45:26Z,City Views
+2019141282,1270000,"47 Friend Street, Wakerley QLD 4154",Wakerley,153.1428089,-27.4855974,0,4,2,2,2024-04-08T23:17:23.777Z,2024-03-26T01:27:22Z,
+2019154831,1115000,"28 Raeside Street, Westlake QLD 4074",Westlake,152.9122485,-27.5514576,770,4,3,3,2024-04-18T03:31:19.087Z,2024-04-02T22:48:18Z,Floorboards|Built in wardrobes|Internal Laundry|Separate Dining Room|Dishwasher|Shed|Balcony / Deck|Rainwater storage tank|Solar panels
+2019157495,1035000,"4 Tralee Street, Bracken Ridge QLD 4017",Bracken Ridge,153.0268305,-27.3163706,680,3,2,2,2024-04-16T23:30:23.613Z,2024-04-03T06:38:29Z,
+2019174153,965000,"8 Atlas Court, Eatons Hill QLD 4037",Eatons Hill,152.9554623,-27.3388039,744,3,2,2,2024-04-23T00:18:51.007Z,2024-04-10T23:29:27Z,
+2019190961,1122500,"21 Nemarra Street, Wynnum West QLD 4178",Wynnum West,153.1537613,-27.4443919,658,4,2,3,2024-04-24T09:05:37.177Z,2024-04-18T04:19:21Z,
+2019154229,735000,"6 Allsop Street, Lawnton QLD 4501",Lawnton,152.9716468,-27.2754379,749,3,2,2,2024-04-23T05:30:25.623Z,2024-04-02T06:51:31Z,
+2019173113,1310000,"14A Waverley Street, Annerley QLD 4103",Annerley,153.0289349,-27.5176017,397,4,2,3,2024-04-23T04:55:48.993Z,2024-04-10T06:23:01Z,Ensuite
+2019099828,1135000,"30 Leckie Road, Kedron QLD 4031",Kedron,153.0338103,-27.4099495,582,4,1,1,2024-04-22T01:18:48.703Z,2024-03-06T05:28:58Z,
+2019031821,1040000,"49 Paramount Drive, Warner QLD 4500",Warner,152.9565198,-27.2975638,709,4,3,2,2024-04-09T07:17:14.123Z,2024-02-05T12:24:25Z,Deck|Secure Parking|Remote Garage|Outdoor Entertainment Area|Dishwasher|Built In Wardrobes|Workshop|Air Conditioning|Solar Panels
+2019151456,1060000,"1 Calliston Court, Cashmere QLD 4500",Cashmere,152.9353484,-27.2940689,800,4,2,2,2024-04-14T23:20:33.4Z,2024-04-01T21:58:11Z,Outdoor Entertainment Area|Swimming Pool-In Ground|Secure Parking|Remote Garage|Pool|Sheds|Built In Wardrobes|Dishwasher|Air Conditioning
+2019183913,905000,"51 Joffre Street, Wynnum QLD 4178",Wynnum,153.1573509,-27.4386446,607,3,1,2,2024-04-16T06:03:27.9Z,2024-04-16T02:45:24Z,Floorboards|Separate Dining Room|Balcony / Deck
+2018795981,1350000,"109 Corvus Drive, Cashmere QLD 4500",Cashmere,152.9228673,-27.2973404,2000,5,3,2,2024-04-16T00:30:02.91Z,2023-09-27T00:25:13Z,
+2019112460,780000,"12 Acland Drive, Strathpine QLD 4500",Strathpine,152.9677385,-27.3078682,611,3,1,3,2024-04-11T10:40:35.737Z,2024-03-12T11:31:29Z,Built In Robes|Fully Fenced|Inground Pool|Outdoor Ent.|Polished Floorboards|Secure Parking|Solar panels|Split System AirCon
+2019035524,830000,"68 Ghost Gum Street, Bellbowrie QLD 4070",Bellbowrie,152.8876115,-27.5667752,784,4,2,2,2024-04-12T06:39:28.957Z,2024-02-07T00:41:05Z,
+2019085436,1400000,"104 Baaring Drive, Karana Downs QLD 4306",Karana Downs,152.8097261,-27.541896,7079,4,2,2,2024-04-18T02:06:52.697Z,2024-02-28T06:50:47Z,Air conditioning|Built in wardrobes|Balcony / Deck|Dishwasher|Heating|Greywater system|Outdoor Entertaining|Swimming Pool|Remote Garage|Secure Parking|Shed|Solar panels|Study|Rainwater storage tank|Workshop|Ensuite
+2019170838,933339,"26 Umina Street, Jindalee QLD 4074",Jindalee,152.9406123,-27.5330126,617,3,1,1,2024-04-23T00:34:36.627Z,2024-04-09T23:53:33Z,
+2019133781,1360000,"34 Kingsgate Street, Oxley QLD 4075",Oxley,152.9686268,-27.5549336,819,4,2,2,2024-04-26T03:41:54.913Z,2024-03-21T05:18:04Z,Pool|Spa
+2019206818,1615000,"26 Martha Street, Camp Hill QLD 4152",Camp Hill,153.0702383,-27.4971022,193,4,2,2,2024-04-26T05:12:02.27Z,2024-04-26T05:12:02Z,
+2019202031,1115000,"53 Kitchener Street, Wynnum QLD 4178",Wynnum,153.1591917,-27.4386013,615,2,1,1,2024-04-24T03:06:37.15Z,2024-04-24T03:06:37Z,
+2019015500,1770000,"8 Bank Street, Windsor QLD 4030",Windsor,153.0260006,-27.4272576,405,4,3,2,2024-03-28T04:06:57.87Z,2024-01-29T07:42:05Z,
+2019159028,1598000,"60 Vale Street, Kelvin Grove QLD 4059",Kelvin Grove,153.0102279,-27.4498175,253,4,2,3,2024-04-22T02:22:50.927Z,2024-04-04T01:48:21Z,
+2019024855,1120000,"20 Norland Street, Warner QLD 4500",Warner,152.9478303,-27.296222,626,4,2,2,2024-04-24T04:29:48.723Z,2024-02-01T05:26:12Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|Prestige Homes|Carpeted|Contemporary
+2019174362,2275000,"16 Lovedale Street, Wilston QLD 4051",Wilston,153.0174872,-27.4301034,506,4,4,3,2024-04-22T22:28:11.437Z,2024-04-11T00:26:21Z,
+2019185492,1650000,"7 Sherborne Street, Carindale QLD 4152",Carindale,153.1088048,-27.4945698,620,4,3,2,2024-04-24T04:15:38.587Z,2024-04-16T07:16:31Z,Air Conditioning|Area Views|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Pets Allowed|Close to Schools|Ensuite|City Views|High Clearance|Openable Windows|Security System|Ceiling Fans|Rainwater Tank|Dishwasher|Fully fenced|Gardens|Low Maintenance Yard|Study
+2019191391,1200000,"99 Wellington Street, Banyo QLD 4014",Banyo,153.0709878,-27.3775282,405,4,2,2,2024-04-24T08:39:39.453Z,2024-04-18T05:38:12Z,Air Conditioning|Built-In Wardrobes|Close to Schools|Close to Shops|Close to Transport|Ensuite|Floorboards|Study|Fully Fenced|Study
+2019198453,1205000,"112 Jutland Street, Oxley QLD 4075",Oxley,152.9760149,-27.5615973,1007,4,1,1,2024-04-23T23:13:27.297Z,2024-04-23T01:28:22Z,
+2019150923,955500,"16 Springbok Street, Fitzgibbon QLD 4018",Fitzgibbon,153.0358912,-27.3405164,472,5,2,1,2024-04-22T05:34:19.847Z,2024-03-31T23:21:47Z,
+2019032698,1510000,"10 Narang Court, Karana Downs QLD 4306",Karana Downs,152.8161533,-27.5426059,9024,4,2,6,2024-04-19T08:21:17.573Z,2024-02-06T01:41:56Z,
+2019182570,1365000,"26 Norman Street, Annerley QLD 4103",Annerley,153.0298535,-27.5125073,569,4,2,1,2024-04-27T10:21:40.347Z,2024-04-15T07:02:34Z,Ensuite|AC|Deck|Dishwasher|Split System AC|Floorboards|Builtin Robes|Solar Hot Water|Water Tank
+2019196258,1800000,"8 Marney Street, Chapel Hill QLD 4069",Chapel Hill,152.9558761,-27.5038069,658,5,2,2,2024-04-22T04:15:09.91Z,2024-04-22T02:54:40Z,
+2019115002,1620000,"49 Darien Street, Bridgeman Downs QLD 4035",Bridgeman Downs,152.9896259,-27.3596504,790,4,3,3,2024-03-26T02:02:28.327Z,2024-03-13T06:05:09Z,
+2019207385,788000,"5 Enid Street, Bracken Ridge QLD 4017",Bracken Ridge,153.0363511,-27.3153768,607,3,1,1,2024-04-27T05:55:34.673Z,2024-04-26T07:21:42Z,
+2019197836,875000,"62 Priors Pocket Road, Moggill QLD 4070",Moggill,152.8768567,-27.5758163,715,4,2,4,2024-04-27T07:27:43.697Z,2024-04-22T09:59:23Z,Air conditioning|Ensuite|Alarm System|Built in wardrobes|Internal Laundry|Pets allowed|Bath|Dishwasher|Study|Fully fenced|Garden / Courtyard
+2019196884,950000,"8 Gordon Street, Brighton QLD 4017",Brighton,153.0468381,-27.3064382,809,3,2,2,2024-04-24T11:21:37.363Z,2024-04-22T05:24:19Z,
+2019201955,1475000,"23 Preston Road, Manly West QLD 4179",Manly West,153.1761371,-27.4580581,526,5,3,2,2024-04-24T05:27:32.317Z,2024-04-24T02:50:54Z,
+2019146679,1170000,"34 Thomson Street, Greenslopes QLD 4120",Greenslopes,153.0579115,-27.5077492,496,5,3,2,2024-04-22T06:07:18.397Z,2024-03-28T00:14:28Z,
+2019129059,965000,"302 Marshall Road, Tarragindi QLD 4121",Tarragindi,153.04946,-27.5299519,637,4,1,2,2024-04-15T06:45:56.087Z,2024-03-20T03:05:44Z,Pet Friendly
+2019187125,1188000,"22 Corang Crescent, Ferny Hills QLD 4055",Ferny Hills,152.9442902,-27.3965727,620,4,2,2,2024-05-23T06:36:57.223Z,2024-04-17T02:32:29Z,
+2019182491,1240000,"119 Thiess Drive, Albany Creek QLD 4035",Albany Creek,152.9594163,-27.3625167,809,4,3,2,2024-05-23T07:37:08.96Z,2024-04-15T06:47:08Z,
+2019182871,1290000,"50 Pioneer Crescent, Bellbowrie QLD 4070",Bellbowrie,152.8704455,-27.562851,2843,4,2,2,2024-05-20T03:54:39.717Z,2024-04-15T10:05:54Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Close to Schools|Ensuite
+2019165120,1240000,"11 Franklin Court, Albany Creek QLD 4035",Albany Creek,152.9645889,-27.3594192,800,5,2,2,2024-05-23T07:05:08.323Z,2024-04-08T01:32:10Z,Air conditioning|Balcony / Deck|Broadband internet access|Built in wardrobes|Dishwasher|Fireplace(s)|Study|Ensuite
+2019179799,830000,"6 Calrossy Street, Boondall QLD 4034",Boondall,153.0677217,-27.3539478,450,3,2,2,2024-05-23T07:42:32.51Z,2024-04-13T05:12:00Z,
+2019241237,711300,"24/1819 Wynnum Road, Tingalpa QLD 4173",Tingalpa,153.1433036,-27.4656028,155,3,2,2,2024-05-20T05:35:30.34Z,2024-05-14T01:44:11Z,Ensuite
+2019128858,845000,"11 Vanwall Road, Moggill QLD 4070",Moggill,152.8939199,-27.5706715,2049,3,1,2,2024-05-17T05:00:08.203Z,2024-03-20T02:32:50Z,
+2019115517,1250000,"3 Norm Street, Kenmore QLD 4069",Kenmore,152.9428564,-27.5084196,1439,4,2,3,2024-05-20T03:41:42.09Z,2024-03-13T09:12:12Z,Ensuite
+2019039169,1330000,"8 Highgreen Close, Kuraby QLD 4112",Kuraby,153.1024555,-27.606379,722,4,2,2,2024-04-02T06:16:03.647Z,2024-02-08T01:14:42Z,Ensuite|AC|Vacuum System|Inground Pool|Study|Garden|Dishwasher|Split System AC|Outdoor Entertaining|Shed|Remote Garage|Builtin Robes|Solar Hot Water
+2019007476,1370000,"20 Carramar Street, Morningside QLD 4170",Morningside,153.0661128,-27.4682897,408,3,4,1,2024-04-02T06:04:30.113Z,2024-01-24T04:14:10Z,Air conditioning|Floorboards|Built in wardrobes|Bath|Dishwasher|Secure Parking|Fully fenced|Balcony / Deck|Swimming Pool
+2018987482,2420000,"121A Eton Street, Nundah QLD 4012",Nundah,153.0540984,-27.3988041,1239,5,2,5,2024-04-02T03:42:36.67Z,2024-01-13T09:01:56Z,Fully fenced|Secure Parking|Shed
+2019066223,988000,"15/40 Blaikie Street, Hendra QLD 4011",Hendra,153.068627,-27.4153981,400,3,2,1,2024-04-24T00:48:56.133Z,2024-02-20T08:01:08Z,Air conditioning|Built in wardrobes|Balcony / Deck|Dishwasher|Fully fenced|Secure Parking
+2019201560,698500,"602/21 Patrick Lane, Toowong QLD 4066",Toowong,152.99727,-27.4802942,0,2,2,1,2024-05-17T00:08:27.873Z,2024-04-24T01:47:20Z,Air conditioning|Gym|Built in wardrobes|Pets allowed|Dishwasher|Balcony / Deck|Swimming Pool|Double glazed windows
+2019179832,780000,"19 Fitzsimmons Street, Keperra QLD 4054",Keperra,152.9636788,-27.3988486,607,2,1,2,2024-05-21T23:11:19.77Z,2024-04-13T06:42:13Z,Floorboards|Balcony / Deck|Garden / Courtyard
+2019198728,1150000,"22 Strong Avenue, Graceville QLD 4075",Graceville,152.9812864,-27.5226393,411,4,2,1,2024-05-17T07:25:19.13Z,2024-04-23T02:23:54Z,
+2019198862,1095000,"24 Strong Avenue, Graceville QLD 4075",Graceville,152.9813948,-27.5226538,411,4,2,1,2024-05-17T08:00:41.86Z,2024-04-23T02:58:38Z,
+2019204039,1290000,"31 Wakefield Street, Sandgate QLD 4017",Sandgate,153.0603778,-27.3132071,759,3,2,2,2024-05-20T03:50:45.63Z,2024-04-24T07:23:18Z,Air conditioning|Gas|Bath|Gas|Dishwasher|Secure Parking|Fully fenced|Ground floor|North Facing
+2019204903,1420500,"172 Fletcher Parade, Bardon QLD 4065",Bardon,152.9830962,-27.4504758,556,3,2,2,2024-05-16T10:23:49.133Z,2024-04-25T06:02:44Z,Air conditioning|Built in wardrobes|Balcony / Deck|Dishwasher|Outdoor Entertaining|Solar panels|fully fenced established gardens.|Ensuite
+2019180396,3700000,"10 Dover Street, Wilston QLD 4051",Wilston,153.0149439,-27.4343692,810,5,2,3,2024-05-20T03:36:20.19Z,2024-04-15T00:00:32Z,Ensuite
+2019229282,1421500,"75 Chester Road, Annerley QLD 4103",Annerley,153.0343724,-27.516083,0,3,2,2,2024-05-20T22:46:23.553Z,2024-05-08T01:26:02Z,Floorboards|Built in wardrobes|Secure Parking|Fully fenced|Balcony / Deck
+2019253074,1900000,"22 Shaw Road, Kalinga QLD 4030",Kalinga,153.0466708,-27.4088837,610,3,2,2,2024-05-20T01:10:44.847Z,2024-05-20T01:10:44Z,
+2019019118,837000,"19 Splendid Close, Pallara QLD 4110",Pallara,153.0159765,-27.6062934,313,4,2,2,2024-04-08T02:53:49.52Z,2024-01-30T23:44:25Z,Study
+2019149107,4209000,"30 Barchester Street, Sherwood QLD 4075",Sherwood,152.977039,-27.5273821,1215,5,3,3,2024-04-26T01:56:03.93Z,2024-03-28T06:05:37Z,
+2019012843,2075000,"130 Kent Road, Kalinga QLD 4030",Kalinga,153.0432044,-27.4117891,607,3,2,2,2024-04-09T02:51:51.393Z,2024-01-28T02:56:08Z,Air Conditioning|Close to Transport|Close to Shops|Close to Schools|Dishwasher|Floorboards|Fully Fenced
+2019161880,1565000,"11 Castlewood Close, Kenmore Hills QLD 4069",Kenmore Hills,152.921718,-27.503012,1070,4,2,2,2024-05-23T03:07:04.477Z,2024-04-05T00:50:09Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Open Fire Place|Close to Schools|Ensuite
+2019181036,1145000,"14 Mur Street, Ferny Grove QLD 4055",Ferny Grove,152.9210285,-27.3954876,800,4,2,2,2024-05-21T05:27:18.133Z,2024-04-15T01:52:57Z,
+2019192136,832000,"71 Brooklands Cct, Forest Lake QLD 4078",Forest Lake,152.9765667,-27.6112157,576,3,2,3,2024-05-24T04:27:54.943Z,2024-04-18T07:34:04Z,
+2019184131,586000,"37/128 Queens Road, Everton Park QLD 4053",Everton Park,152.9807573,-27.3894175,0,2,1,1,2024-05-20T04:36:04.133Z,2024-04-16T03:35:59Z,Air conditioning|Built in wardrobes|Dishwasher|Secure Parking|Fully Fenced
+2019181884,480000,"37 Irula Street, Bray Park QLD 4500",Bray Park,152.9838779,-27.2931179,631,3,2,3,2024-05-24T06:46:05.977Z,2024-04-15T05:01:58Z,Dishwasher|Swimming Pool|Solar panels|Air conditioning
+2018796577,1020000,"28 Third Avenue, Sandgate QLD 4017",Sandgate,153.0702658,-27.3187449,286,3,2,2,2023-12-22T00:48:21.95Z,2023-09-27T02:24:25Z,Study|Ensuite|Courtyard|Laundry
+2018829240,1150000,"64 Cliff Street, Sandgate QLD 4017",Sandgate,153.0734259,-27.3200494,417,3,1,1,2024-05-03T02:32:23.107Z,2024-05-03T02:29:06Z,Laundry
+2018729853,1600000,"7 First Avenue, Sandgate QLD 4017",Sandgate,153.0724728,-27.3199242,405,5,3,2,2024-01-15T23:48:41.543Z,2023-08-28T00:37:54Z,Ensuite|Laundry
+2019219991,1338000,"32 Norm Street, Kenmore QLD 4069",Kenmore,152.9450258,-27.5086107,607,5,3,1,2024-05-14T23:36:09.977Z,2024-05-02T09:08:25Z,
+2019175771,1520000,"5 Harding Street, Ashgrove QLD 4060",Ashgrove,152.9812459,-27.4483216,726,3,2,2,2024-05-22T00:47:10.947Z,2024-04-11T04:59:18Z,
+2019197337,1060000,"10 Kidgell Street, Stafford QLD 4053",Stafford,153.0005704,-27.4075831,655,3,1,1,2024-05-22T05:50:55.967Z,2024-04-22T06:40:30Z,
+2019253842,1675000,"16 Meyrick Street, Cannon Hill QLD 4170",Cannon Hill,153.093668,-27.4733642,0,4,2,2,2024-05-20T03:47:23.097Z,2024-05-20T03:47:23Z,
+2019214158,860000,"22 Paterson Place, Forest Lake QLD 4078",Forest Lake,152.9704973,-27.6160411,555,3,2,2,2024-05-22T03:58:09.717Z,2024-05-01T01:08:07Z,
+2019251226,532000,"10/328 Handford Road, Taigum QLD 4018",Taigum,153.0399848,-27.3446206,198,2,1,1,2024-05-17T05:28:54.47Z,2024-05-17T05:28:54Z,
+2018849662,950000,"36A Windeyer Street, Bald Hills QLD 4036",Bald Hills,153.0091187,-27.3180637,405,3,2,2,2024-05-17T04:17:34.593Z,2023-10-21T00:55:19Z,Air conditioning|Ensuite|Built in wardrobes|Internal Laundry|Pets allowed|Gas|Broadband internet access|Bath|Gas|Separate Dining Room|Dishwasher|Secure Parking|Fully fenced|Garden / Courtyard|Plantation Shutters Throughout
+2019109138,720000,"23/184 Radford Road, Manly West QLD 4179",Manly West,153.1551066,-27.4670694,0,3,2,1,2024-03-19T23:42:40.123Z,2024-03-11T06:58:27Z,Air conditioning|Ensuite|Floorboards|Built in wardrobes|Internal Laundry|Dishwasher|Secure Parking|Shed|Fully fenced|Balcony / Deck|Garden / Courtyard|Swimming Pool|large backyard|modern kitchen bathrooms
+2019252382,4011000,"28 Nairn Street, Milton QLD 4064",Milton,153.0045189,-27.4637627,834,5,4,2,2024-05-23T03:33:22.02Z,2024-05-18T11:02:13Z,
+2019192282,1050000,"25 Cabarita Crescent, Eatons Hill QLD 4037",Eatons Hill,152.95206,-27.3461913,795,4,2,2,2024-05-23T05:14:37.67Z,2024-04-18T08:35:32Z,
+2019169866,1120000,"27A Burnaby Terrace, Gordon Park QLD 4031",Gordon Park,153.02239170000001,-27.4134979,284,3,3,2,2024-05-17T04:02:05.297Z,2024-04-09T06:28:21Z,Air conditioning|Balcony / Deck|Close to Schools|Close to Shops|Close to Transport|Garden / Courtyard|Covered Terrace|Dishwasher|Fully fenced|Laundry|Remote Garage|Secure Parking
+2019167835,1040000,"16 Gladstone Street, Coorparoo QLD 4151",Coorparoo,153.0560168,-27.4911562,405,2,1,1,2024-05-20T08:21:07.893Z,2024-04-08T23:31:59Z,
+2019117326,1700000,"112 Kookaburra Circuit, Rochedale QLD 4123",Rochedale,153.1109443,-27.5641768,458,4,2,2,2024-05-22T04:46:49.697Z,2024-03-14T03:26:57Z,
+2019260210,1060000,"11207/8 Harbour Road, Hamilton QLD 4007",Hamilton,153.0667557,-27.4396631,0,2,2,2,2024-05-22T06:01:52.317Z,2024-05-22T05:54:23Z,
+2019183507,659450,"63 Nanbaree Drive, Bray Park QLD 4500",Bray Park,152.9662212,-27.3020832,600,3,2,2,2024-05-22T05:08:35.857Z,2024-04-16T01:14:19Z,
+2019266206,1300000,"1 Martock Street, Camp Hill QLD 4152",Camp Hill,153.0781208,-27.4947731,0,2,1,0,2024-05-24T06:39:34.317Z,2024-05-24T06:39:34Z,
+2019185085,1775000,"53 Shirley Street, Enoggera QLD 4051",Enoggera,152.9914406,-27.4287042,701,5,3,2,2024-05-23T00:52:33.487Z,2024-04-16T06:07:17Z,Study
+2019171862,985000,"26 Glenhaven Street, Kedron QLD 4031",Kedron,153.0207619,-27.4001707,620,4,2,2,2024-05-23T04:31:23.973Z,2024-04-10T03:16:26Z,
+2019178138,1310000,"25 Lindisfarne Street, Carindale QLD 4152",Carindale,153.1068657,-27.4944288,622,3,1,2,2024-05-17T05:45:39.027Z,2024-04-29T23:35:36Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Car Parking - Surface|Carpeted|Broadband Internet Available
+2018991770,1375000,"91 Gray Street, Carina QLD 4152",Carina,153.1029196,-27.4852199,405,4,3,2,2024-05-23T06:03:23.61Z,2024-01-16T05:41:40Z,Air conditioning|Built in wardrobes|Internal Laundry|Bath|Separate Dining Room|Dishwasher|Study|Fully fenced|Garden / Courtyard|North Facing
+2018993166,850000,"18 Tedman Street, Zillmere QLD 4034",Zillmere,153.04854,-27.3535742,774,3,2,2,2024-05-09T06:05:33.907Z,2024-04-02T22:48:04Z,Ensuite
+2019174323,1340000,"36 Alexandra Avenue, Taringa QLD 4068",Taringa,152.9900917,-27.4958078,405,3,2,1,2024-05-23T04:48:29.583Z,2024-04-11T00:16:46Z,
+2019150448,895000,"36 Creagh Street, Zillmere QLD 4034",Zillmere,153.0357072,-27.3617667,647,3,1,2,2024-05-23T05:42:23.25Z,2024-03-30T04:59:38Z,
+2019236407,980000,"87 Cobalt Street, Keperra QLD 4054",Keperra,152.9405204,-27.4174806,800,3,2,2,2024-05-24T05:16:20.193Z,2024-05-10T04:22:23Z,
+2019176330,852798,"27 Finvoy Street, Ferny Grove QLD 4055",Ferny Grove,152.9287515,-27.4023968,669,3,2,2,2024-05-24T21:08:09.723Z,2024-04-11T06:26:33Z,
+2019203220,755000,"5 Anatini Place, Forest Lake QLD 4078",Forest Lake,152.980981,-27.6232761,320,3,2,2,2024-05-20T00:14:44.117Z,2024-04-24T05:56:30Z,
+2019258517,2010000,"58 Arrol Street, Camp Hill QLD 4152",Camp Hill,153.0825256,-27.4895457,664,5,3,3,2024-05-22T00:43:42.843Z,2024-05-22T00:43:42Z,
+2019258521,1725000,"43 Brinawa Street, Camp Hill QLD 4152",Camp Hill,153.0759809,-27.4950577,0,4,2,2,2024-05-22T00:44:22Z,2024-05-22T00:44:21Z,
+2019258510,1460000,"14 Lloyd Street, Camp Hill QLD 4152",Camp Hill,153.0646827,-27.4876822,405,3,1,1,2024-05-22T00:42:50.46Z,2024-05-22T00:42:50Z,
+2019181839,1470000,"35 Nordenfeldt Road, Cannon Hill QLD 4170",Cannon Hill,153.0823317,-27.4651764,405,4,2,2,2024-05-19T23:48:37.467Z,2024-04-15T04:52:24Z,Air conditioning|Floorboards|Built in wardrobes|Dishwasher|Secure Parking|Balcony / Deck|North Facing|City Views
+2019189046,971000,"20 Kyrunda Street, Mitchelton QLD 4053",Mitchelton,152.9690259,-27.4029607,610,3,1,2,2024-05-03T03:58:34.913Z,2024-04-17T07:32:11Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Secure Parking|Dishwasher
+2019165092,707000,"7 Pete Court, Lawnton QLD 4501",Lawnton,152.9510026,-27.2822552,667,3,1,2,2024-05-01T07:48:08.597Z,2024-04-08T01:24:03Z,
+2019196711,900000,"46A Greensill Road, Albany Creek QLD 4035",Albany Creek,152.9702674,-27.3409538,438,4,2,2,2024-05-20T00:43:03.857Z,2024-04-22T04:49:42Z,Air conditioning|Fully fenced|NBN FTTB|Study
+2019187439,960000,"2 Redbourne Street, Chermside West QLD 4032",Chermside West,153.0124516,-27.386547,670,5,2,2,2024-05-21T05:31:32.267Z,2024-04-17T03:32:43Z,Air Conditioning|Built-In Wardrobes|Ensuite|Courtyard|Dishwasher|Fully Fenced
+2019253248,1235000,"21 Edith Street, Alderley QLD 4051",Alderley,152.99615,-27.4268923,405,3,1,1,2024-05-20T01:53:47.693Z,2024-05-20T01:53:47Z,
+2019169774,1190000,"5 Luckins Street, Aspley QLD 4034",Aspley,153.0150108,-27.3673887,754,4,3,2,2024-05-22T05:31:27.69Z,2024-04-09T06:17:21Z,Ceiling Fans|Dishwasher|Electric Hot Water Service|Fully fenced|High-set|Outdoor Entertaining|Swimming Pool|Rangehood|Air conditioning|Ensuite
+2019171353,1380000,"89 Seabrook Circuit, Westlake QLD 4074",Westlake,152.9157421,-27.5503275,674,4,2,4,2024-05-20T05:08:28.097Z,2024-04-10T01:37:23Z,Ensuite
+2019179697,840000,"110 Wynnum North Road, Wynnum QLD 4178",Wynnum,153.1575872,-27.438697,556,3,1,1,2024-05-24T05:40:47.747Z,2024-04-13T01:30:40Z,
+2019195330,1133300,"18 Florence Street, Annerley QLD 4103",Annerley,153.0306038,-27.507295,647,4,1,3,2024-05-22T01:32:24Z,2024-04-21T05:02:08Z,
+2019247218,1900100,"37 Thuruna Street, Stafford QLD 4053",Stafford,153.0060059,-27.403787,419,4,3,4,2024-05-16T01:42:21.653Z,2024-05-16T01:42:21Z,
+2019257284,3300000,"93 Bramston Street, Tarragindi QLD 4121",Tarragindi,153.0414566,-27.5295126,663,5,3,3,2024-05-21T06:14:29.167Z,2024-05-21T06:14:29Z,
+2019186539,1406800,"85 Lumley Street, Upper Mount Gravatt QLD 4122",Upper Mount Gravatt,153.0843288,-27.5529798,486,4,2,2,2024-05-24T05:27:33.793Z,2024-04-17T00:55:30Z,Ensuite
+2019182075,980000,"41B Kildonan Street, Aspley QLD 4034",Aspley,153.0215874,-27.3726988,400,4,2,2,2024-05-22T22:32:16.94Z,2024-04-15T05:35:36Z,
+2019134519,1121000,"29 Somerset Drive, Carseldine QLD 4034",Carseldine,153.0173562,-27.3387459,605,5,3,2,2024-05-22T05:13:23.35Z,2024-03-21T07:14:59Z,Built in wardrobes|Dishwasher|Double Storey|Air conditioning|Heating|Outdoor Entertaining|Shed|Ensuite
+2019149478,1900000,"23 Northview Outlook, Moorooka QLD 4105",Moorooka,153.0313838,-27.5264378,620,4,3,2,2024-05-03T06:33:13.95Z,2024-03-28T07:20:42Z,
+2019181514,1230000,"51 Byth Street, Stafford QLD 4053",Stafford,153.003919,-27.4093893,607,3,2,2,2024-05-23T07:42:34.863Z,2024-04-15T03:46:30Z,
+2019100423,1300000,"21 Cityveiw Place, Moggill QLD 4070",Moggill,152.8856811,-27.5741578,1636,5,2,2,2024-05-23T00:35:13.363Z,2024-03-06T07:22:13Z,Air Conditioning|Vacuum System
+2019085408,2100000,"10 Gavan Street, Ashgrove QLD 4060",Ashgrove,152.9925692,-27.4343208,405,4,2,2,2024-04-05T03:44:36.537Z,2024-02-28T06:44:58Z,Air conditioning|Heating|Pool|Swimming Pool|Solar panels
+2019113851,810000,"23 Clipper Street, Inala QLD 4077",Inala,152.9686121,-27.59871,607,4,2,2,2024-05-22T07:15:11.267Z,2024-03-13T03:14:47Z,Air conditioning
+2019114506,1325000,"4 Strathburn Street, Oxley QLD 4075",Oxley,152.9729802,-27.5490616,604,4,3,2,2024-05-20T06:52:47.73Z,2024-03-13T05:04:40Z,Ensuite
+2019181294,757250,"202 Bray Road, Lawnton QLD 4501",Lawnton,152.9709571,-27.2782205,627,3,1,2,2024-04-24T01:40:26.423Z,2024-04-15T02:52:41Z,Air conditioning|Ensuite|Built in wardrobes|Balcony / Deck
+2019131996,1070000,"25 The Avenue, Heathwood QLD 4110",Heathwood,152.9847516,-27.6335078,400,4,2,2,2024-05-21T05:05:26.95Z,2024-03-21T00:35:45Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Close to Schools|Ensuite|Security System|Dishwasher|Fully Fenced|Study
+2019121832,1100000,"63 Tanzanite Street, Pallara QLD 4110",Pallara,153.0037435,-27.6233421,400,4,2,2,2024-05-21T05:05:26.99Z,2024-03-16T05:48:37Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|Prestige Homes|Dishwasher|Floorboards|Fully Fenced|Study
+2019073943,1185000,"30 Montgomery Circuit, Pallara QLD 4110",Pallara,152.9876305,-27.6232669,460,4,2,2,2024-05-21T05:05:29.693Z,2024-02-23T00:30:11Z,Air Conditioning|Close to Transport|Close to Shops|Close to Schools|Ensuite|Prestige Homes|Dishwasher|Fully Fenced|Study
+2019205318,1290000,"39 Woorabinda Street, Runcorn QLD 4113",Runcorn,153.0850649,-27.5923741,660,4,2,4,2024-05-16T22:55:19.44Z,2024-04-25T23:22:01Z,Ensuite
+2019112034,1135000,"20 Mayfield Road, Moorooka QLD 4105",Moorooka,153.0260946,-27.5327495,607,3,1,3,2024-05-17T01:06:58.9Z,2024-03-12T06:23:51Z,Investment
+2019255734,1265000,"9A Henderson Road, Everton Hills QLD 4053",Everton Hills,152.9655795,-27.3906951,268,5,2,2,2024-05-21T01:18:33.093Z,2024-05-21T01:18:33Z,
+2019153408,800000,"18 Augusta Crescent, Forest Lake QLD 4078",Forest Lake,152.9564738,-27.6247439,599,3,2,2,2024-05-24T07:04:34.487Z,2024-04-02T04:56:28Z,Ensuite
+2019106162,590000,"29/121 Archdale Road, Ferny Grove QLD 4055",Ferny Grove,152.9334751,-27.3994062,0,3,2,1,2024-05-21T22:56:55.69Z,2024-03-08T07:44:31Z,Air conditioning
+2019216677,1020000,"30 Cashel Street, Tingalpa QLD 4173",Tingalpa,153.1309247,-27.4820347,608,4,1,2,2024-05-23T01:08:09.02Z,2024-05-01T07:44:14Z,Air conditioning|Built in wardrobes|Internal Laundry|Bath|Dishwasher|Shed|Garden / Courtyard
+2019177303,915000,"17 Solomon Crescent, Tingalpa QLD 4173",Tingalpa,153.137883,-27.4785394,676,3,1,1,2024-04-29T05:40:50.767Z,2024-04-11T23:36:29Z,
+2019169145,1725000,"38 Morley Street, Toowong QLD 4066",Toowong,152.9870873,-27.4775712,423,4,2,2,2024-04-26T06:33:57.907Z,2024-04-09T04:29:35Z,
+2019096522,1860000,"89 Central Avenue, Sherwood QLD 4075",Sherwood,152.9861052,-27.5268379,405,4,2,2,2024-05-20T06:04:44.963Z,2024-03-05T04:57:39Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Close to Schools|Ensuite|Fully Fenced|Secure Parking|Dishwasher
+2019091585,1112500,"9 Tana Place, Parkinson QLD 4115",Parkinson,153.0409966,-27.6337166,0,4,2,2,2024-05-19T22:41:14.587Z,2024-03-01T21:12:17Z,
+2019188805,720000,"18 Verdon Court, Petrie QLD 4502",Petrie,152.9645659,-27.2638317,641,3,1,2,2024-05-12T23:44:11.313Z,2024-04-17T06:50:22Z,
+2019127172,1450000,"141 Silky Oak Avenue, Moggill QLD 4070",Moggill,152.869894,-27.5723846,0,4,2,3,2024-05-20T03:48:22.693Z,2024-03-19T07:53:37Z,
+2019085548,933000,"41 Scenic Close, Albany Creek QLD 4035",Albany Creek,152.9620141,-27.3534573,750,4,2,2,2024-05-22T04:35:06.727Z,2024-02-28T07:28:42Z,Air conditioning|Built in wardrobes|Balcony / Deck|Dishwasher|Floorboards|Remote Garage|Ensuite
+2019071636,930000,"12 Retreat Place, Pallara QLD 4110",Pallara,152.9958914,-27.6206164,380,4,2,2,2024-04-04T00:59:50.527Z,2024-02-22T02:40:00Z,Study
+2019159864,1602000,"29 Koola Street, Wishart QLD 4122",Wishart,153.105308,-27.5498436,752,4,2,2,2024-05-23T04:57:18.013Z,2024-04-04T04:20:04Z,Ensuite|AC|Alarm System|Broadband|Garden|Split System AC|Outdoor Entertaining|Fully Fenced|Remote Garage|Builtin Robes|Water Tank
+2019256353,790500,"3 Corangamite Court, Petrie QLD 4502",Petrie,152.9733021,-27.2520336,729,4,2,1,2024-05-21T03:24:43.967Z,2024-05-21T03:24:43Z,
+2019177856,1005000,"2 Quandeine Street, Stafford QLD 4053",Stafford,153.0081192,-27.4066036,617,3,1,2,2024-05-20T04:39:06.14Z,2024-04-12T01:53:43Z,Ceiling Fans|Electric Hot Water Service|Fully fenced|High-set|Outdoor Entertaining|Rangehood|Air conditioning
+2019154281,2725000,"33 Devenish Street, Sunnybank QLD 4109",Sunnybank,153.0670043,-27.574558,765,6,4,4,2024-05-24T06:09:49.983Z,2024-04-02T07:08:14Z,
+2019258522,1600000,"24 Lindisfarne Street, Carindale QLD 4152",Carindale,153.10717,-27.4948923,650,4,3,2,2024-05-22T00:44:47.453Z,2024-05-22T00:44:47Z,
+2019220644,885000,"24 Edgar Street, Northgate QLD 4013",Northgate,153.0733429,-27.3959701,438,2,1,2,2024-05-20T03:09:41.633Z,2024-05-03T00:57:23Z,
+2019152313,1930000,"85 Quarry Road, Sherwood QLD 4075",Sherwood,152.97776,-27.5351566,407,5,2,2,2024-05-21T04:03:50.82Z,2024-04-02T01:37:26Z,Air conditioning|Floorboards|Alarm System|Built in wardrobes|Internal Laundry|Bath|Dishwasher|Study|Secure Parking|Fully fenced|Balcony / Deck|Garden / Courtyard|North Facing
+2019191827,2725000,"23 Olive Street, Hendra QLD 4011",Hendra,153.0720505,-27.4198917,351,5,3,2,2024-05-13T02:14:02.7Z,2024-04-18T06:33:40Z,Ensuite
+2019205240,1025000,"27 Blackwood Road, Salisbury QLD 4107",Salisbury,153.023933,-27.5526348,809,2,1,1,2024-05-19T23:29:25.457Z,2024-04-25T22:50:42Z,Air conditioning|Floorboards|Built in wardrobes|Gas|Bath|Gas|Garden / Courtyard
+2019209127,1150000,"17 Sedgemoor Street, Stafford Heights QLD 4053",Stafford Heights,153.0072386,-27.3990944,559,3,1,2,2024-05-20T06:55:41.797Z,2024-04-29T03:19:56Z,Air conditioning|Floorboards|Built in wardrobes|Pets allowed|Dishwasher|Study|Secure Parking|Fully fenced|Balcony / Deck|Garden / Courtyard|North Facing|Wall / ceiling insulation
+2019171846,1040000,"40 Paperbark Circuit, Moggill QLD 4070",Moggill,152.8659592,-27.5674534,800,5,3,2,2024-05-20T05:43:18.517Z,2024-04-10T03:13:23Z,Built in wardrobes|Bath|Separate Dining Room|Heating|Dishwasher|Study|Balcony / Deck|Garden / Courtyard|Wall / ceiling insulation|Solar panels
+2019249976,562000,"4/689 Wynnum Road, Morningside QLD 4170",Morningside,153.0752263,-27.4672254,0,2,1,1,2024-05-17T03:57:20.86Z,2024-05-17T01:13:37Z,
+2019201952,816000,"19 Argyle Street, Seventeen Mile Rocks QLD 4073",Seventeen Mile Rocks,152.9595083,-27.5506047,405,3,1,1,2024-05-20T02:29:11.027Z,2024-04-24T02:50:18Z,
+2019183851,1258300,"17 Churchill Circuit, Banyo QLD 4014",Banyo,153.0795552,-27.3819094,631,4,2,2,2024-05-22T05:16:35.393Z,2024-04-16T02:32:44Z,Air conditioning|Built in wardrobes|Internal Laundry|Bath|Dishwasher|Secure Parking|Swimming Pool|Wall / ceiling insulation
+2019211321,1100000,"5 Eyre Street, Mount Gravatt East QLD 4122",Mount Gravatt East,153.0852029,-27.5373955,455,3,1,2,2024-05-20T01:17:05.867Z,2024-04-30T01:32:17Z,Air conditioning|Balcony / Deck|Built in wardrobes|Dishwasher|First Home Buyer|Floorboards|Fully fenced|Outdoor Entertaining|Remote Garage|Secure Parking|Solar panels|Heating|Study|Rainwater storage tank
+2019140874,1200000,"199 Agnew Street, Morningside QLD 4170",Morningside,153.0691038,-27.4768616,809,4,2,2,2024-05-20T02:06:48.553Z,2024-03-26T00:19:37Z,
+2019171325,915000,"12 Toulambi Street, Bracken Ridge QLD 4017",Bracken Ridge,153.0380529,-27.3203105,556,3,2,2,2024-05-19T20:14:28.083Z,2024-05-19T20:14:09Z,Balcony|Deck|Outdoor Entertainment Area|Secure Parking|Fully Fenced|Sheds|Broadband Internet Available|Built In Wardrobes|Dishwasher|Pay TV Access|Floorboards|Workshop|Rumpus Room|Double Storey|Reverse Cycle Aircon|Solar Panels|Water Tank
+2019252448,1000000,Lawn Hill QLD 4825,Lawn Hill,138.0560838,-18.9519426,0,2,1,1,2024-05-20T08:44:25.563Z,2024-05-20T08:42:44Z,Broadband internet access|Gas|Cable or Satellite|Pets allowed
+2019196725,1200000,"37 Camelot Street, Tennyson QLD 4105",Tennyson,152.9988906,-27.5253073,607,4,2,3,2024-05-07T05:52:18.687Z,2024-04-22T04:52:06Z,Air Conditioning|Built-In Wardrobes|Close to Shops|Pets Allowed|Close to Schools|Car Parking - Surface|Carpeted|Openable Windows|Toilet Facilities|Window Treatments
+2019205246,810000,"15 Limerick Street, Acacia Ridge QLD 4110",Acacia Ridge,153.0232603,-27.5901833,660,3,1,3,2024-05-19T23:59:27.577Z,2024-04-25T22:53:25Z,Air conditioning|Built in wardrobes|Pets allowed|Bath|Fully fenced|Balcony / Deck
+2019195954,1420000,"144 Mein Street, Hendra QLD 4011",Hendra,153.0647776,-27.4250059,0,2,1,2,2024-05-24T03:54:25.41Z,2024-04-22T01:19:42Z,
+2019215963,2190000,"128 Ironbark Road, Chapel Hill QLD 4069",Chapel Hill,152.9409341,-27.4920835,1097,5,3,2,2024-05-22T01:20:58.22Z,2024-05-01T06:01:43Z,
+2019192694,1430000,"26 Norman Street, East Brisbane QLD 4169",East Brisbane,153.0457216,-27.4876507,390,4,1,2,2024-05-20T23:41:31.92Z,2024-04-18T23:55:49Z,
+2019250015,910000,"14 Koolewong Street, Stafford Heights QLD 4053",Stafford Heights,153.0173853,-27.4026814,625,2,1,1,2024-05-22T05:48:34.23Z,2024-05-17T01:27:19Z,Built in wardrobes|Ceiling Fans|Balcony / Deck|Dishwasher|Fully fenced|Polished Timber Floors|Storage
+2019199696,910888,"43 Lemon Street, Runcorn QLD 4113",Runcorn,153.0803812,-27.5970059,427,4,2,1,2024-05-21T22:49:18.323Z,2024-04-23T05:34:28Z,
+2019201919,1330000,"49 Villiers Street, Lota QLD 4179",Lota,153.1814651,-27.4707615,405,5,3,4,2024-05-20T04:36:52.36Z,2024-04-24T02:43:54Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|Carpeted|Dishwasher|Study
+2019193371,1410000,"12 Thomas Street, Red Hill QLD 4059",Red Hill,152.9996453,-27.4553731,405,3,1,1,2024-05-22T05:57:24.757Z,2024-04-19T02:39:54Z,
+2019204439,1450000,"106 Ham Road, Mansfield QLD 4122",Mansfield,153.1059522,-27.5398469,600,4,2,2,2024-05-21T21:09:06.297Z,2024-04-24T10:04:30Z,
+2019186814,1181500,"27 Plimsoll Street, Greenslopes QLD 4120",Greenslopes,153.0553984,-27.5119896,554,2,1,2,2024-04-29T00:59:34.96Z,2024-04-17T01:42:34Z,
+2019140271,1850000,"2-4 Donald Street, Camp Hill QLD 4152",Camp Hill,153.0730208,-27.4910435,810,2,2,2,2024-05-24T07:02:30.717Z,2024-03-25T09:51:14Z,Floorboards|Built in wardrobes|Internal Laundry|Bath|Study|Secure Parking|Balcony / Deck|Garden / Courtyard|Swimming Pool
+2019259233,1636000,"32 Winnam Street, Stafford QLD 4053",Stafford,153.0195638,-27.406322,630,3,1,0,2024-05-22T03:04:53.483Z,2024-05-22T03:04:53Z,
+2019196639,1600000,"4 Turnberry Crescent, Albany Creek QLD 4035",Albany Creek,152.9772794,-27.3622314,930,5,3,2,2024-05-17T05:31:19.18Z,2024-04-22T04:34:17Z,Ensuite
+2019151579,950000,"7 Tanderra Way, Karana Downs QLD 4306",Karana Downs,152.8239183,-27.5462295,1357,4,2,4,2024-05-23T04:11:41.07Z,2024-04-01T23:00:45Z,
+2019127686,1100000,"57 Morialta Street, Mansfield QLD 4122",Mansfield,153.1033957,-27.544262,564,4,2,2,2024-05-24T06:01:56.743Z,2024-03-19T23:07:37Z,AC|Balcony|Courtyard|Deck|Garden|Dishwasher|Split System AC|Outdoor Entertaining|Floorboards|Remote Garage|Workshop|Builtin Robes|Secure Parking
+2019137087,905888,"42 Juba Street, Riverhills QLD 4074",Riverhills,152.9083133,-27.5591607,696,4,2,2,2024-05-20T03:11:13.36Z,2024-03-22T06:28:09Z,Air conditioning|Built in wardrobes|Floorboards|Fully fenced|Outdoor Entertaining|Remote Garage|Secure Parking|Ensuite
+2019197305,3325000,"3/25 Dixon Street, New Farm QLD 4005",New Farm,153.0504053,-27.4672205,381,3,3,4,2024-05-13T00:16:22.493Z,2024-04-22T06:34:45Z,
+2019050297,995000,"50 Hall St, Sherwood QLD 4075",Sherwood,152.9859852,-27.5310398,809,4,2,2,2024-05-20T03:42:22.473Z,2024-02-13T23:54:17Z,
+2019181682,890000,"10 Robtrish Street, Manly West QLD 4179",Manly West,153.168258,-27.4681784,592,3,1,3,2024-05-20T00:33:46.907Z,2024-04-15T04:25:02Z,
+2019219561,6900000,"6 Tenth Avenue, St Lucia QLD 4067",St Lucia,153.0017864,-27.5007397,1410,4,3,8,2024-05-22T00:23:46.047Z,2024-05-02T06:57:18Z,
+2019223822,2730000,"60 Robe Street, Grange QLD 4051",Grange,153.0102745,-27.4238927,629,5,3,2,2024-05-17T05:28:34.283Z,2024-05-06T01:09:29Z,Ensuite
+2019209248,737000,"2 Princeton Court, Fitzgibbon QLD 4018",Fitzgibbon,153.0393787,-27.3400339,401,3,1,2,2024-05-21T01:44:57.513Z,2024-04-29T03:48:59Z,
+2019230176,1700000,"80 Banbury Street, Carina QLD 4152",Carina,153.0898955,-27.4770747,981,5,2,4,2024-05-21T07:01:11.503Z,2024-05-08T04:11:42Z,Air conditioning|Backyard Lawn|Built in wardrobes|Ceiling Fans|Covered Deck|Dishwasher|Swimming Pool|Solar panels|Ensuite
+2019240753,640000,"46 Elmes Road, Rocklea QLD 4106",Rocklea,153.0131326,-27.5465728,718,4,2,2,2024-05-21T22:23:16.32Z,2024-05-13T23:23:23Z,
+2019232113,1185000,"15 Parkdale Street, Kedron QLD 4031",Kedron,153.0269225,-27.3953461,607,3,1,2,2024-05-21T02:06:40.973Z,2024-05-08T22:59:52Z,Built in wardrobes|Ceiling Fans|Dishwasher|Fully fenced|Insect Screens|Split System Air Conditioning
+2019236982,1100000,"35A Frederick Street, Alderley QLD 4051",Alderley,153.0034854,-27.4265853,99,4,2,1,2024-05-20T04:51:17.053Z,2024-05-10T06:27:51Z,Air conditioning|Built in wardrobes|Internal Laundry|Secure Parking|Fully fenced|Balcony / Deck|Garden / Courtyard|Ground floor|Solar panels
+2019215725,1450000,"2 Lower Clifton Terrace, Red Hill QLD 4059",Red Hill,153.0123528,-27.4577281,339,3,2,2,2024-05-22T00:36:28.22Z,2024-05-01T05:26:56Z,
+2019073096,3075000,"48 Toorak Road, Hamilton QLD 4007",Hamilton,153.0510808,-27.4374364,630,4,2,2,2024-05-21T22:33:28.34Z,2024-02-22T07:07:34Z,
+2019205332,895000,"20 Lawson Place, Forest Lake QLD 4078",Forest Lake,152.9656234,-27.617814,762,4,3,2,2024-05-20T01:53:58.55Z,2024-04-25T23:29:23Z,Air conditioning|Alarm System|Balcony / Deck|Broadband internet access|Built in wardrobes|Dishwasher|Floorboards|Fully fenced|Gas Hot Water Service|Outdoor Entertaining|Patio|Swimming Pool|Remote Garage|Rumpus Room|Safety Switch|Secure Parking|Shed|Smoke Alarm|Rainwater storage tank|Ensuite
+2019021905,2150000,"31 Orleigh Street, West End QLD 4101",West End,153.0018868,-27.4894296,0,3,2,2,2024-05-21T04:44:19.787Z,2024-01-31T08:06:47Z,Air conditioning|Balcony / Deck|Built in wardrobes|Garden / Courtyard|Dishwasher|Fully fenced|Outdoor Entertaining|Remote Garage|Secure Parking|Study|Vacuum System|Ensuite|Water Views
+2019182158,4750000,"47 Riverview Place, Yeronga QLD 4104",Yeronga,153.0062668,-27.5151314,1175,4,3,2,2024-05-13T05:58:26.29Z,2024-04-15T05:51:03Z,
+2019229912,1011000,"66 Harold Street, Stafford QLD 4053",Stafford,153.0100855,-27.4087244,569,3,1,2,2024-05-22T06:04:42.553Z,2024-05-08T03:28:24Z,
+2019222766,1810000,"80 White Street, Wavell Heights QLD 4012",Wavell Heights,153.0389268,-27.3978837,607,5,2,4,2024-05-22T07:13:00.493Z,2024-05-03T22:23:08Z,Fully Fenced|Outdoor Entertainment Area|Remote Garage|Secure Parking|Shed|Broadband Internet Available|Built-in Wardrobes|Dishwasher|Floorboards|Pay TV Access|Rumpus Room|Study|Workshop|Ducted Cooling|Ducted Heating|Water Tank|Ensuite
+2019206010,790601,"2305 Sandgate Road, Boondall QLD 4034",Boondall,153.0606836,-27.3510039,607,3,2,2,2024-05-21T02:19:17.897Z,2024-04-26T01:56:52Z,Balcony / Deck|Garden / Courtyard
+2019167288,1003000,"72 Lucan Avenue, Aspley QLD 4034",Aspley,153.0231051,-27.3602515,607,3,2,2,2024-05-22T04:17:21.157Z,2024-04-08T07:18:56Z,
+2019180310,3235000,"83 Brown Parade, Ashgrove QLD 4060",Ashgrove,152.9935346,-27.4362946,696,4,3,3,2024-05-22T01:01:32.337Z,2024-04-14T23:30:49Z,Air conditioning|Alarm System|Balcony / Deck|Built in wardrobes|Ceiling Fans|Dishwasher|Heating|Ensuite|Formal & Informal Living|Fully fenced|Intercom|Outdoor Entertaining|Swimming Pool|Remote Garage|Secure Parking|Study|Walk-in-Robe|Rainwater storage tank
+2019174281,1830000,"48 Allen Road, Bunya QLD 4055",Bunya,152.9331647,-27.3565359,5000,6,4,4,2024-05-20T04:31:36.043Z,2024-04-11T00:05:20Z,Air conditioning|Built in wardrobes|Dishwasher|Study|Balcony / Deck|Garden / Courtyard|Swimming Pool|Wall / ceiling insulation|Rainwater storage tank|Greywater system|Solar hot water
+2018877006,1040000,"20 Walton Pl, Brighton QLD 4017",Brighton,153.0597636,-27.2873535,595,4,2,2,2024-04-11T08:22:49.877Z,2024-02-26T23:42:15Z,
+2019013991,765000,"30 Kensington Way, Strathpine QLD 4500",Strathpine,152.9762449,-27.299673,615,3,1,2,2024-04-30T06:02:24.24Z,2024-01-29T02:27:35Z,
+2019102259,1525500,"48 Viewpoint Street, Rochedale QLD 4123",Rochedale,153.1176849,-27.5725937,391,4,2,2,2024-05-17T03:54:36.05Z,2024-03-07T03:49:44Z,Air Conditioning|Area Views|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools|Ensuite|3 Phase Power|Car Parking - Surface|Exhaust|Openable Windows|Broadband Internet Available|Dishwasher|Floorboards|Fully Fenced
+2019113301,800000,"1 Grenoble Street, Petrie QLD 4502",Petrie,152.9744976,-27.2657255,1125,3,1,2,2024-05-23T07:33:15.85Z,2024-03-13T01:29:50Z,
+2019134884,1250444,"44 Simla Avenue, Geebung QLD 4034",Geebung,153.0435264,-27.3732283,607,3,1,3,2024-05-17T01:39:03.23Z,2024-03-21T19:50:10Z,
+2019183881,925000,"93 Eidsvold Street, Keperra QLD 4054",Keperra,152.9455315,-27.4098829,546,3,1,2,2024-05-21T05:40:26.167Z,2024-04-16T02:38:19Z,Air conditioning
+2019175095,750000,"27 Aspen Street, Inala QLD 4077",Inala,152.9737159,-27.5846197,835,4,1,1,2024-05-22T06:02:01.477Z,2024-04-11T02:47:31Z,
+2019135731,1315000,"7 Pembridge Place, Pallara QLD 4110",Pallara,153.0136875,-27.6225699,435,5,3,2,2024-05-08T05:54:01.77Z,2024-03-22T01:26:51Z,Study|Rumpus Room|Built In Robes|Dishwasher|Bathtub|Ducted Heating|Ducted Air Conditioning|Gas Hot Water|Ensuite(s)|Outdoor Entertainment Area|Balcony|Remote Garage|Secure Parking|Fully Fenced
+2019084165,1135000,"53 Oakview Street, Parkinson QLD 4115",Parkinson,153.0218174,-27.6340686,705,4,2,2,2024-05-22T05:07:15.483Z,2024-02-28T03:51:54Z,Air conditioning
+2019032674,1155000,"3 Kingman Street, Sunnybank Hills QLD 4109",Sunnybank Hills,153.0526798,-27.5896882,589,4,2,2,2024-05-20T06:14:52.56Z,2024-02-06T01:38:09Z,Air conditioning|Balcony / Deck|Broadband internet access|Built in wardrobes|Fully fenced|Outdoor Entertaining|Rumpus Room|Shed|Solar panels
+2019112664,1710000,"65 Lanham Avenue, Grange QLD 4051",Grange,153.0178621,-27.4231786,405,4,2,2,2024-05-20T06:06:03.747Z,2024-03-12T22:58:36Z,Floorboards|Built in wardrobes|Separate Dining Room
+2019165040,1120000,"2/37 Mein Street, Spring Hill QLD 4000",Spring Hill,153.0281892,-27.462088,0,1,1,2,2024-04-08T01:11:40.073Z,2024-04-08T01:11:40Z,
+2019064930,890000,"19 Norland Street, Warner QLD 4500",Warner,152.9482441,-27.2965625,665,4,2,3,2024-04-05T05:58:45.457Z,2024-02-20T03:43:15Z,
+2019018908,1050000,"28 Hawkes Avenue, Arana Hills QLD 4054",Arana Hills,152.9601987,-27.3849271,943,5,2,2,2024-04-04T03:35:45.003Z,2024-01-30T22:39:34Z,
+2019094635,1743500,"15 Loreburn Street, Mount Gravatt QLD 4122",Mount Gravatt,153.0729274,-27.5345227,673,6,3,2,2024-05-24T01:11:52.94Z,2024-03-04T10:15:20Z,Air conditioning|Built in wardrobes|Dishwasher|Gas Stove|Swimming Pool|Secure Parking|Separate Laundry|Study|Deck|Fully Fenced|Shed
+2019007774,2081000,"100 Landing Place, Moggill QLD 4070",Moggill,152.8615184,-27.595009,10000,5,3,7,2024-04-04T22:52:10.97Z,2024-01-24T05:05:59Z,
+2019114465,980000,"24 Everest Street, Warner QLD 4500",Warner,152.9530715,-27.2962528,602,4,2,2,2024-04-15T21:32:33.86Z,2024-03-13T04:59:13Z,Outdoor Entertainment Area|Secure Parking|Remote Garage|Sheds|Built In Wardrobes|Dishwasher|Air Conditioning
+2019151362,826000,"231 Patricks Road, Ferny Hills QLD 4055",Ferny Hills,152.9365207,-27.3943156,607,3,1,3,2024-05-21T01:05:03.507Z,2024-04-01T08:09:03Z,
+2019091960,1915000,"21 Eveleigh Street, Wooloowin QLD 4030",Wooloowin,153.0407338,-27.4162271,405,4,3,2,2024-04-15T02:58:39.337Z,2024-03-02T21:07:49Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Close to Schools|Ensuite|Dishwasher|Fully Fenced
+2019218852,1495000,"30 Granville Street, West End QLD 4101",West End,153.0100398,-27.4833565,377,3,1,4,2024-05-16T05:04:37.557Z,2024-05-02T05:05:56Z,Pets allowed|Garden / Courtyard
+2019215370,720000,"26 Mitchell Street, Lawnton QLD 4501",Lawnton,152.9781301,-27.2865382,779,3,1,1,2024-05-09T02:24:22.587Z,2024-05-01T04:40:44Z,
+2019215338,1073000,"30 Garie Street, Wishart QLD 4122",Wishart,153.0922418,-27.554076,534,3,1,2,2024-05-01T05:26:45.33Z,2024-05-01T04:37:42Z,Air conditioning|Floorboards|Built in wardrobes|Secure Parking|Balcony / Deck|Garden / Courtyard
+2019122789,999000,"1 Burwick Cl, Middle Park QLD 4074",Middle Park,152.9192391,-27.5549867,633,4,2,2,2024-04-04T23:08:05.223Z,2024-03-18T01:18:24Z,
+2019229330,1131000,"41 Sport Street, Kedron QLD 4031",Kedron,153.0344194,-27.4006779,607,3,1,1,2024-05-12T23:50:35.543Z,2024-05-08T01:38:33Z,
+2019155178,1411580,"121 Paul St, Brighton QLD 4017",Brighton,153.0604536,-27.3066719,590,4,2,4,2024-05-14T07:03:59.793Z,2024-04-03T00:08:34Z,
+2019218120,1563000,"16 Victoria Terrace, Annerley QLD 4103",Annerley,153.035815,-27.5061212,822,3,1,1,2024-05-10T03:36:13.187Z,2024-05-02T02:52:06Z,
+2019243931,1100000,"25 Wareela Street, Murarrie QLD 4172",Murarrie,153.1032205,-27.4634054,607,3,1,3,2024-05-18T14:49:37.407Z,2024-05-15T01:18:53Z,AC|Deck|Split System AC|Shed|Floorboards|Secure Parking|Solar Panels
+2019227965,850000,"1548 Creek Road, Carina QLD 4152",Carina,153.0981675,-27.485207,607,3,2,2,2024-05-24T22:58:22.253Z,2024-05-07T06:46:53Z,
+2019180451,519500,"20 Clarke Lane, Fitzgibbon QLD 4018",Fitzgibbon,153.0217714,-27.3327931,0,2,2,1,2024-05-23T05:01:55.427Z,2024-04-15T00:11:51Z,
+2019096768,955000,"1 Doulton Street, Stafford Heights QLD 4053",Stafford Heights,153.0103318,-27.3926154,599,4,1,2,2024-05-21T04:26:19.493Z,2024-03-05T05:38:39Z,
+2019165913,1720000,"19 Prince Street, Virginia QLD 4014",Virginia,153.0605155,-27.3843949,810,4,2,2,2024-05-07T01:39:24.403Z,2024-04-08T04:33:03Z,
+2019217264,750000,"48 Stanley Street, Strathpine QLD 4500",Strathpine,152.9847171,-27.3050699,607,3,1,3,2024-05-22T05:01:06.973Z,2024-05-01T23:46:29Z,
+2019256423,2050000,"55 Wambool Street, Bulimba QLD 4171",Bulimba,153.0599476,-27.4487201,0,3,1,1,2024-05-21T03:39:16.873Z,2024-05-21T03:39:16Z,
+2019134484,893500,"141 College Way, Boondall QLD 4034",Boondall,153.0690097,-27.3541724,451,4,2,4,2024-05-20T05:59:23.19Z,2024-03-21T07:00:25Z,
+2019184031,910000,"39 Bevlin Court, Albany Creek QLD 4035",Albany Creek,152.9724169,-27.3442733,607,3,1,2,2024-05-20T03:17:02.333Z,2024-04-16T03:13:30Z,Garden / Courtyard|Gas Hot Water Service|Ground Floor|Secure Parking
+2019211585,1360000,"91 Stewart Road, Ashgrove QLD 4060",Ashgrove,152.9903971,-27.4407052,415,4,2,1,2024-05-22T00:46:02.07Z,2024-04-30T02:30:54Z,
+2019113107,1365000,"17 Longfellow Street, Norman Park QLD 4170",Norman Park,153.0598522,-27.4794827,405,3,2,2,2024-05-24T03:49:43.487Z,2024-03-13T00:37:06Z,
+2019084891,1475000,"19 Akuna Street, Kenmore QLD 4069",Kenmore,152.9497612,-27.5093049,903,4,3,2,2024-05-20T05:03:08.197Z,2024-02-28T05:29:22Z,Ensuite
+2019228485,1130000,"39 Ellerdale Street, Aspley QLD 4034",Aspley,153.0212655,-27.3613533,749,3,1,1,2024-05-22T02:05:08.133Z,2024-05-07T10:04:24Z,Air Conditioning|Close to Transport|Close to Shops|Close to Schools|Carpeted
+2019206205,1510000,"15 Kingswood Street, Manly West QLD 4179",Manly West,153.1716177,-27.4631047,607,5,3,6,2024-05-21T01:04:08.723Z,2024-04-26T02:48:39Z,
+2018858631,1800000,"60 Pine Street, Bulimba QLD 4171",Bulimba,153.06073,-27.4486681,538,4,2,2,2024-04-02T07:06:36.717Z,2023-10-25T07:24:02Z,Swimming Pool
+2019176692,1820000,"612 Haven Road, Upper Brookfield QLD 4069",Upper Brookfield,152.8695034,-27.4946494,40170,4,2,3,2024-05-20T04:42:04.817Z,2024-04-11T07:23:05Z,
+2019171639,3920000,"11 Prospect Street, Wilston QLD 4051",Wilston,153.0145497,-27.4342321,810,5,3,4,2024-04-18T06:50:20.217Z,2024-04-10T02:30:20Z,
+2019150737,690000,"32 Bray Road, Lawnton QLD 4501",Lawnton,152.9764288,-27.2781277,607,3,2,2,2024-05-24T07:30:26.88Z,2024-04-01T23:10:04Z,Air conditioning|Balcony / Deck|Built in wardrobes|First Home Buyer|Floorboards|Fully fenced|Outdoor Entertaining|Secure Parking
+2019157328,768000,"60 Gawain Road, Bracken Ridge QLD 4017",Bracken Ridge,153.0327883,-27.3155351,577,5,1,3,2024-05-20T05:16:21.603Z,2024-04-03T06:07:53Z,
+2019258515,1430000,"24 Goulburn Street, Hawthorne QLD 4171",Hawthorne,153.0626531,-27.4689577,0,3,2,1,2024-05-22T00:43:22.83Z,2024-05-22T00:43:22Z,
+2019187170,1350000,"36 White Street, Everton Park QLD 4053",Everton Park,152.9863726,-27.4059991,405,4,2,2,2024-05-17T05:36:53.84Z,2024-04-17T02:42:17Z,Air Conditioning|Area Views|Built-In Wardrobes|Close to Schools|Close to Shops|Close to Transport|Ensuite|Courtyard|Fully Fenced|Secure Parking|Solar Panels
+2019183948,1204000,"47 Nemies Road, Runcorn QLD 4113",Runcorn,153.075266,-27.6049915,600,4,2,4,2024-04-23T23:58:22.107Z,2024-04-16T02:52:27Z,Air conditioning|Floorboards|Built in wardrobes|Bath|Dishwasher|Shed|Fully fenced|Balcony / Deck|Garden / Courtyard|Rainwater storage tank|Solar panels
+2019152218,1500000,"96 Kenmore Road, Kenmore QLD 4069",Kenmore,152.9389113,-27.5189778,1004,4,2,4,2024-05-19T23:07:20.493Z,2024-04-02T01:27:42Z,
+2019170554,1002000,"734 Cavendish Road, Holland Park QLD 4121",Holland Park,153.0777042,-27.5184573,607,2,2,2,2024-04-26T05:12:01.633Z,2024-04-09T12:15:29Z,Built-In Wardrobes|Study
+2019216678,1406000,"45 Atrium Way, Everton Hills QLD 4053",Everton Hills,152.9628578,-27.391032,601,4,2,2,2024-05-22T03:53:28.08Z,2024-05-01T07:44:23Z,
+2019155946,920000,"3 Phillips Lane, Drewvale QLD 4116",Drewvale,153.0516657,-27.6546,403,4,2,1,2024-05-22T05:09:30.99Z,2024-04-03T02:34:17Z,Air conditioning
+2019178211,1655000,"62 Linkwood Drive, Ferny Hills QLD 4055",Ferny Hills,152.9298548,-27.387331,1253,5,3,2,2024-05-17T06:46:48.89Z,2024-04-12T03:25:55Z,Air Conditioning|Area Views|Built-In Wardrobes|Bush Retreat|Ensuite|Floorboards|Fully Fenced|Study
+2019116760,1610000,"47 Queensthorpe Street, Tarragindi QLD 4121",Tarragindi,153.0551449,-27.5306682,607,4,2,3,2024-05-24T06:43:49.987Z,2024-03-14T01:52:44Z,Air Conditioning|Built-In Wardrobes
+2019172225,1440000,"146 Greentrees Ave, Kenmore Hills QLD 4069",Kenmore Hills,152.9188679,-27.50106,899,4,3,2,2024-05-24T03:39:50.71Z,2024-04-10T04:24:32Z,Air Conditioning|Area Views|Built-In Wardrobes|Close to Transport|Close to Shops|Close to Schools
+2019094995,952000,"70 Doorey Street, Keperra QLD 4054",Keperra,152.9541749,-27.4094832,647,3,1,3,2024-04-29T01:28:38.367Z,2024-03-04T23:27:43Z,
+2019062649,1200000,"21 Durness Street, Kenmore QLD 4069",Kenmore,152.9288204,-27.5116773,711,5,3,1,2024-05-21T00:09:09.98Z,2024-02-19T05:32:47Z,Deck|Outdoor Entertainment Area|Remote Garage|Secure Parking|Shed|Broadband Internet Available|Built-in Wardrobes|Dishwasher|Floorboards|Pay TV Access|Rumpus Room|Study|Workshop|Air Conditioning|Split-System Air Conditioning|Split-System Heating|Solar Panels|Water Tank
+2018853273,620000,"56 Norman Street, Deagon QLD 4017",Deagon,153.0612576,-27.3298618,417,3,1,1,2023-12-22T00:44:13.83Z,2023-10-24T00:14:27Z,Laundry
+2018936769,720000,"18 Henderson Road, Deagon QLD 4017",Deagon,153.0651456,-27.331145,809,2,1,1,2024-02-04T23:54:03.443Z,2023-12-01T01:28:34Z,Laundry
+2018871961,963000,"32 Neal Street, Brighton QLD 4017",Brighton,153.0581076,-27.2912531,607,3,2,2,2024-02-26T22:54:22.647Z,2023-11-01T00:48:06Z,Laundry
+2018885301,875000,"112 Paul Street, Brighton QLD 4017",Brighton,153.0597176,-27.3064346,403,3,2,4,2024-02-23T00:51:59.107Z,2023-11-07T05:27:19Z,Ensuite|Laundry
+2018799317,1060000,"99 Dunne Street, Brighton QLD 4017",Brighton,153.0563137,-27.308614,607,3,2,2,2023-12-04T23:34:16.707Z,2023-09-28T01:19:06Z,Ensuite|Outdoor Entertaining Area|Fully Fenced|Swimming Pool|Water Tank|Laundry
+2018913046,1250000,"64 Station Road, Deagon QLD 4017",Deagon,153.0688635,-27.3259659,948,3,2,4,2024-02-12T01:28:03.76Z,2023-11-20T02:33:02Z,Ensuite|Built In Robes|Outdoor Entertaining Area|Shed|Laundry
+2019103229,923900,"31 Whyalla Close, Bracken Ridge QLD 4017",Bracken Ridge,153.0256577,-27.3269206,864,3,2,2,2024-05-03T01:57:38.963Z,2024-03-07T06:28:55Z,
+2018944212,2200000,"452 Flinders Parade, Brighton QLD 4017",Brighton,153.0643176,-27.3003876,642,4,2,2,2024-01-15T05:58:44.4Z,2023-12-06T03:18:44Z,Laundry
+2019222104,1345000,"68 Dover Street, Wilston QLD 4051",Wilston,153.0155233,-27.4316284,405,3,1,2,2024-05-10T06:50:21.37Z,2024-05-03T06:32:37Z,
+2019246947,2605000,"15 Wendouree Crescent, Westlake QLD 4074",Westlake,152.9094283,-27.5442499,1131,5,2,2,2024-05-16T00:44:52.597Z,2024-05-16T00:44:52Z,
+2019247319,1320000,"92 Bowen Street, Windsor QLD 4030",Windsor,153.037133,-27.4338013,979,3,3,4,2024-05-16T01:58:01.48Z,2024-05-16T01:58:01Z,
+2019247318,2040000,"22 Heather Street, Wilston QLD 4051",Wilston,153.01869,-27.4328882,810,4,1,3,2024-05-16T01:58:00.07Z,2024-05-16T01:58:00Z,
+2019227413,1100000,"15 Pangeza Street, Stafford Heights QLD 4053",Stafford Heights,153.0169414,-27.4028541,0,3,1,1,2024-05-15T22:59:09.697Z,2024-05-07T05:20:36Z,
+2019248892,969000,"251 Lillian Avenue, Salisbury QLD 4107",Salisbury,153.0352933,-27.5552599,0,2,1,2,2024-05-16T06:37:52.947Z,2024-05-16T06:37:52Z,
+2019228831,3150000,"30 Mittagong Street, Enoggera QLD 4051",Enoggera,152.9854046,-27.429586,759,5,3,2,2024-05-14T03:30:38.71Z,2024-05-07T23:49:49Z,
+2019248237,1010000,"60 Lisson Grove, Wooloowin QLD 4030",Wooloowin,153.042918,-27.4228441,417,3,1,2,2024-05-16T04:59:28.45Z,2024-05-16T04:53:25Z,
+2019240519,975000,"31 Backford Street, Chermside West QLD 4032",Chermside West,153.0091241,-27.3840135,607,4,2,3,2024-05-13T09:18:09.607Z,2024-05-13T09:18:09Z,
+2019245592,950000,"92 Elliott Road, Banyo QLD 4014",Banyo,153.0730579,-27.3709595,0,3,1,2,2024-05-15T05:54:04.273Z,2024-05-15T05:54:04Z,
+2019246109,1080000,"42 Watcombe Street, Wavell Heights QLD 4012",Wavell Heights,153.0485387,-27.384864,0,4,2,1,2024-05-15T07:22:58.687Z,2024-05-15T07:22:58Z,
+2019214317,1020000,"12 Wellington Street, Virginia QLD 4014",Virginia,153.0646396,-27.3813428,708,3,2,2,2024-05-16T01:57:27.38Z,2024-05-01T01:36:22Z,Built in wardrobes|Secure Parking|Shed|Fully fenced|Garden / Courtyard
+2019221440,950000,"39 Faine Street, Manly West QLD 4179",Manly West,153.1720779,-27.4590427,506,3,1,1,2024-05-16T05:40:37.007Z,2024-05-03T04:09:20Z,Air conditioning|Floorboards|Built in wardrobes|Pets allowed|Gas|Bath|Gas|Heating|Dishwasher|Shed|Fully fenced|Garden / Courtyard
+2019226161,1170000,"18 Kanofski Street, Chermside West QLD 4032",Chermside West,153.0162149,-27.3798072,718,3,2,2,2024-05-16T07:06:14.933Z,2024-05-07T01:02:23Z,
+2019243734,1120000,"85 Belgrave Street, Morningside QLD 4170",Morningside,153.0677217,-27.4634785,178,3,2,2,2024-05-15T00:36:53.447Z,2024-05-15T00:36:53Z,
+2019213013,1100000,"9 Narona Street, Middle Park QLD 4074",Middle Park,152.9219479,-27.5570057,739,4,2,2,2024-05-16T02:02:46.32Z,2024-04-30T07:13:21Z,
+2019246220,3810000,"3 Lomandra Court, Indooroopilly QLD 4068",Indooroopilly,152.9958338,-27.5115205,491,5,4,4,2024-05-15T07:59:50.57Z,2024-05-15T07:59:50Z,
+2019223117,1340000,"4 Botticelli Close, Carseldine QLD 4034",Carseldine,153.0201617,-27.3436964,0,4,2,2,2024-05-15T00:04:18.13Z,2024-05-04T23:49:17Z,
+2019227905,1130500,"9 Rose Street, Wooloowin QLD 4030",Wooloowin,153.0414133,-27.4137871,405,3,1,1,2024-05-16T02:02:58.223Z,2024-05-07T06:35:31Z,
+2019244956,885000,"43 Chuter Street, Stafford Heights QLD 4053",Stafford Heights,153.0079744,-27.394203,635,2,2,1,2024-05-15T03:58:45.94Z,2024-05-15T03:58:45Z,
+2019212766,972000,"21 Melina Street, Salisbury QLD 4107",Salisbury,153.042938,-27.5535613,627,3,1,1,2024-04-30T06:39:30.653Z,2024-04-30T06:39:30Z,
+2019214148,980000,"1 Hercules Place, Sinnamon Park QLD 4073",Sinnamon Park,152.9507391,-27.5453634,651,3,1,1,2024-05-01T01:06:23.107Z,2024-05-01T01:06:23Z,
+2019235500,1200000,"19 Garrett Street, Murarrie QLD 4172",Murarrie,153.0993269,-27.4620312,647,3,1,2,2024-05-10T00:34:30.397Z,2024-05-10T00:34:30Z,
+2019227471,650000,"5/17 Wickham Street, Morningside QLD 4170",Morningside,153.0724003,-27.4716797,98,2,2,1,2024-05-07T05:31:44.317Z,2024-05-07T05:31:44Z,
+2019213487,2605000,"15 WENDOUREE Court, Westlake QLD 4074",Westlake,152.9094283,-27.5442499,0,4,3,2,2024-04-30T11:38:19.42Z,2024-04-30T11:38:19Z,
+2019209710,2200000,"74 Towers Street, Ascot QLD 4007",Ascot,153.0548243,-27.4304618,0,5,3,2,2024-04-29T06:37:36.067Z,2024-04-29T05:34:53Z,
+2019228822,1375000,"7 Birrimba Street, Alderley QLD 4051",Alderley,153.0011225,-27.4197835,630,3,1,1,2024-05-07T23:48:38.44Z,2024-05-07T23:48:38Z,
+2019227063,765000,"47 Elliott Road, Banyo QLD 4014",Banyo,153.0714681,-27.37272,0,2,1,1,2024-05-07T04:08:44.737Z,2024-05-07T04:08:44Z,
+2019209233,1300000,"42 Wellington Street, Virginia QLD 4014",Virginia,153.0683804,-27.3787784,597,4,2,1,2024-05-14T01:19:27.74Z,2024-04-29T03:46:36Z,
+2019217862,1420000,"6 Kitchener Street, Wynnum QLD 4178",Wynnum,153.157673,-27.4406202,405,4,3,2,2024-05-11T05:42:17.67Z,2024-05-02T02:02:42Z,Air conditioning|Built in wardrobes|Internal Laundry|Pets allowed|Gas|Bath|Gas|Heating|Dishwasher|Study|Secure Parking|Shed|Fully fenced|Balcony / Deck|Garden / Courtyard|Water Views
+2019173264,1200000,"12 Hillside Circuit, Chermside West QLD 4032",Chermside West,153.0023869,-27.3809374,404,4,2,2,2024-05-13T03:11:50.607Z,2024-05-07T05:55:40Z,Air conditioning|Close to Schools|Close to Shops|Close to Transport|Garden / Courtyard|Covered Deck|Dishwasher|Double Garage|Fully fenced|Laundry|Remote Garage|Secure Parking
+2019235179,1230000,"24 Marieander Street, Tarragindi QLD 4121",Tarragindi,153.0509319,-27.530640000000002,607,3,1,1,2024-05-09T22:22:18.763Z,2024-05-09T22:22:18Z,
+2019208910,3150000,"97 Elfreda Street, Enoggera QLD 4051",Enoggera,152.9917721,-27.4280497,637,6,3,3,2024-05-03T00:39:05.96Z,2024-04-29T02:15:24Z,
+2019235530,1280000,"90 Baringa Street, Morningside QLD 4170",Morningside,153.0766921,-27.4636472,759,3,1,2,2024-05-10T00:40:10.67Z,2024-05-10T00:40:10Z,
+2019240101,1200000,"99 Wellington Street, Banyo QLD 4014",Banyo,153.0709878,-27.3775282,405,4,2,2,2024-05-13T06:42:16.68Z,2024-05-13T06:42:16Z,
+2019214983,1670000,"5 Oliver Street, Wooloowin QLD 4030",Wooloowin,153.0439394,-27.4248317,0,0,0,0,2024-05-01T03:44:31.943Z,2024-05-01T03:44:31Z,
+2019233819,790000,"9 Prospect Street, Warner QLD 4500",Warner,152.9504049,-27.3056607,413,3,2,2,2024-05-09T05:12:57.61Z,2024-05-09T05:12:57Z,
+2019209729,888000,"5 Arravanda Crescent, Pallara QLD 4110",Pallara,152.9980872,-27.6208032,381,4,2,2,2024-05-10T05:26:35.82Z,2024-04-29T05:40:07Z,AC|Split System AC|Outdoor Entertaining|Fully Fenced|Builtin Robes|Secure Parking
+2019211348,1655000,"67 Fanny Street, Annerley QLD 4103",Annerley,153.0290527,-27.5090506,405,4,2,2,2024-04-30T01:39:55.36Z,2024-04-30T01:39:55Z,
+2019216304,1020000,"18 Tahiti Street, Taigum QLD 4018",Taigum,153.0516218,-27.3443317,637,3,3,2,2024-05-01T06:43:49.94Z,2024-05-01T06:43:49Z,
+2019209752,1625888,"9 Mapleleaf Street, Eight Mile Plains QLD 4113",Eight Mile Plains,153.0900795,-27.5904104,616,5,3,2,2024-05-10T05:45:58.73Z,2024-04-29T05:41:01Z,Ensuite|AC|Inground Pool|Balcony|Broadband|Study|Dishwasher|Pay TV|Split System AC|Outdoor Entertaining|Remote Garage|Builtin Robes|Reverse Cycle AC|Rumpus Room
+2019237065,1800000,"28 Burrowa Street, Stafford QLD 4053",Stafford,153.0128077,-27.4052537,421,4,2,2,2024-05-10T06:45:57.163Z,2024-05-10T06:45:57Z,
+2019235425,1300000,"126 Ness Road, Salisbury QLD 4107",Salisbury,153.0275664,-27.5508936,809,3,1,2,2024-05-10T00:14:08.357Z,2024-05-10T00:14:08Z,
+2019206355,1700000,"51 Lizzie Street, Bardon QLD 4065",Bardon,152.9902474,-27.4519691,1032,3,1,1,2024-05-09T03:26:44.273Z,2024-05-09T03:12:32Z,
+2019213709,1980000,"97 Hawdon Street, Wilston QLD 4051",Wilston,153.023887,-27.4292649,686,4,3,2,2024-05-13T04:01:35.513Z,2024-04-30T23:30:05Z,Air conditioning|Floorboards|Built in wardrobes|Pets allowed|Dishwasher|North Facing
+2019226650,985000,"16 Tangara Street, Jindalee QLD 4074",Jindalee,152.9329349,-27.5329716,635,3,2,2,2024-05-07T02:44:23.12Z,2024-05-07T02:44:23Z,
+2019210272,2000000,"85 Constitution Road, Windsor QLD 4030",Windsor,153.0279513,-27.4309198,599,4,2,2,2024-04-29T07:07:21.907Z,2024-04-29T07:07:21Z,
+2019241926,500000,"507/21 Patrick Lane, Toowong QLD 4066",Toowong,152.99727,-27.4802942,0,1,1,1,2024-05-14T04:49:15.08Z,2024-05-14T04:18:27Z,
+2019235979,1020000,"6 Shearwater Close, Albany Creek QLD 4035",Albany Creek,152.9576002,-27.3484687,600,4,2,2,2024-05-10T02:26:21.587Z,2024-05-10T02:26:21Z,
+2019211300,850000,"17 Basswood Street, Algester QLD 4115",Algester,153.0334995,-27.6131326,569,3,2,2,2024-04-30T01:28:43.897Z,2024-04-30T01:28:43Z,
+2019232074,1080000,"7 Kenny Court, Wakerley QLD 4154",Wakerley,153.145662,-27.4872915,450,4,2,2,2024-05-08T22:37:29.547Z,2024-05-08T22:37:29Z,
+2019228664,650000,"34 Hampton Street, Durack QLD 4077",Durack,152.9773085,-27.57977,635,3,1,2,2024-05-12T23:42:11.987Z,2024-05-07T22:50:22Z,
+2019235494,1650000,"261 Chatsworth Road, Coorparoo QLD 4151",Coorparoo,153.0654434,-27.5049143,0,4,2,2,2024-05-10T03:46:15.72Z,2024-05-10T00:34:00Z,
+2019218184,1190000,"46 Somervell Street, Annerley QLD 4103",Annerley,153.0281646,-27.5156399,607,3,1,2,2024-05-02T03:06:58.98Z,2024-05-02T03:06:58Z,
+2019209561,3465000,"259 Lambert Road, Indooroopilly QLD 4068",Indooroopilly,152.9894263,-27.5037691,1163,6,3,4,2024-05-08T03:40:38.34Z,2024-04-29T05:00:09Z,Air Conditioning|Close to Transport|Close to Shops|Pool|Close to Schools|Dishwasher
+2019220771,1390000,"55 Andrew Avenue, Tarragindi QLD 4121",Tarragindi,153.0395708,-27.5261533,658,2,2,1,2024-05-13T04:01:38.193Z,2024-05-03T01:28:25Z,Air conditioning|Floorboards|Built in wardrobes|Bath|Heating|Dishwasher|Study|Secure Parking|Fully fenced|Balcony / Deck|Garden / Courtyard|Water efficient fixtures
+2019231326,1410000,"31 Elliott Road, Banyo QLD 4014",Banyo,153.0701138,-27.3735298,506,4,2,2,2024-05-08T06:53:00.293Z,2024-05-08T06:53:00Z,
+2019221342,1235000,"4 Roscrea Street, Tingalpa QLD 4173",Tingalpa,153.1322774,-27.4801199,681,4,2,2,2024-05-07T01:16:36.763Z,2024-05-03T03:46:38Z,Air Conditioning|Built-In Wardrobes|Close to Transport|Close to Shops|Pool|Close to Schools|Ensuite|Openable Windows|Dishwasher|Fully Fenced
+2019227378,1200000,"112 Main Avenue, Wavell Heights QLD 4012",Wavell Heights,153.0467378,-27.3839458,675,3,1,2,2024-05-07T05:12:38.343Z,2024-05-07T05:12:38Z,
+2019233687,1300000,"427 Beenleigh Road, Sunnybank QLD 4109",Sunnybank,153.0511316,-27.5835081,1442,4,2,3,2024-05-09T04:48:23.257Z,2024-05-09T04:48:23Z,
+2019230452,900000,"1310/14 Trafalgar Street, Woolloongabba QLD 4102",Woolloongabba,153.0386392,-27.4873374,0,2,2,1,2024-05-08T04:58:00.147Z,2024-05-08T04:58:00Z,
+2019235523,1825000,"116 Beverley Street, Morningside QLD 4170",Morningside,153.0781642,-27.4616637,405,4,2,2,2024-05-10T00:39:23.783Z,2024-05-10T00:39:23Z,
+2019221145,750000,"9 Limerick Street, Acacia Ridge QLD 4110",Acacia Ridge,153.0233811,-27.589713,660,2,1,2,2024-05-03T02:59:22.693Z,2024-05-03T02:59:22Z,
+2019239495,1100000,"14 Terrence Street, Aspley QLD 4034",Aspley,153.0161145,-27.3730027,814,3,2,2,2024-05-13T04:48:58.507Z,2024-05-13T04:48:58Z,
+2019235512,1265000,"63 Shelley Street, Cannon Hill QLD 4170",Cannon Hill,153.0908887,-27.4718229,421,3,1,2,2024-05-10T00:37:33.943Z,2024-05-10T00:37:33Z,
