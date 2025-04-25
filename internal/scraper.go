@@ -10,12 +10,12 @@ import (
 	"golang.org/x/net/html"
 )
 
-type ScrapedHouse struct {
+type scrapedHouse struct {
 	Id    int
 	Price int
 }
 
-func ExtractHouses(page int, wg *sync.WaitGroup, houses *[]ScrapedHouse, url string) {
+func extractHouses(page int, wg *sync.WaitGroup, houses *[]scrapedHouse, url string) {
 	defer wg.Done()
 
 	resp, err := http.Get(fmt.Sprintf(url, page))
@@ -59,7 +59,7 @@ func ExtractHouses(page int, wg *sync.WaitGroup, houses *[]ScrapedHouse, url str
 				}
 				atrValSlice := strings.Split(string(atrVal), "-")
 				listing_id, _ := strconv.Atoi(atrValSlice[len(atrValSlice)-1])
-				*houses = append(*houses, ScrapedHouse{listing_id, price})
+				*houses = append(*houses, scrapedHouse{listing_id, price})
 				break
 			}
 		}

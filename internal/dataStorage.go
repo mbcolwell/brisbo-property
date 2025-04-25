@@ -11,8 +11,8 @@ import (
 	"sync"
 )
 
-func getStoredIds(dataFilePath string) []int {
-	file, err := os.Open(dataFilePath)
+func getStoredIds() []int {
+	file, err := os.Open(Config.soldCsvPath)
 	if err != nil {
 		log.Panic("Error while reading the file", err)
 	}
@@ -38,11 +38,11 @@ func getStoredIds(dataFilePath string) []int {
 	return ids
 }
 
-func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string) {
+func getNewHouses(houses []scrapedHouse) {
 
-	storedIds := getStoredIds(dataFilePath)
+	storedIds := getStoredIds()
 
-	file, err := os.OpenFile(dataFilePath, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
+	file, err := os.OpenFile(Config.soldCsvPath, os.O_WRONLY|os.O_CREATE|os.O_APPEND, 0644)
 	if err != nil {
 		log.Panic("Error while opening the file", err)
 	}
@@ -57,7 +57,7 @@ func GetNewHouses(houses []ScrapedHouse, apiKey string, dataFilePath string) {
 		}
 
 		wg.Add(1)
-		go func(house ScrapedHouse) {
+		go func(house scrapedHouse) {
 			defer wg.Done()
 
 			resp := getHouseInformation(house.Id, apiKey)

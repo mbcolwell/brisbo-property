@@ -26,4 +26,8 @@ apiKey.txt
 
 .venv
 
+.vscode
+
 qld_suburb_geo.json
+
+.DS_Store
