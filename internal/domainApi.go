@@ -6,6 +6,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"os"
 	"time"
 )
 
@@ -19,6 +20,12 @@ type domainAddress struct {
 	DisplayAddress string `json:"displayAddress"`
 }
 
+type domainMedia struct {
+	Category string `json:"category"`
+	Type     string `json:"type"`
+	Url      string `json:"url"`
+}
+
 type domainApiResponse struct {
 	Geolocation  domainGeolocation `json:"geoLocation"`
 	Area         int               `json:"landAreaSqm"`
@@ -26,9 +33,23 @@ type domainApiResponse struct {
 	Baths        int               `json:"bathrooms"`
 	Beds         int               `json:"bedrooms"`
 	Cars         int               `json:"carspaces"`
-	DateListed   string            `json:"dateUpdated"`
-	DateSold     string            `json:"dateListed"`
+	DateUpdated  string            `json:"dateUpdated"`
+	DateListed   string            `json:"dateListed"`
 	AddressParts domainAddress     `json:"addressParts"`
+	Media        []domainMedia     `json:"media"`
+}
+
+var apiKey string
+
+func parseApiKey() {
+	if apiKey != "" {
+		return
+	}
+	apiKeyBytes, err := os.ReadFile(Config.apiKeyPath)
+	if err != nil {
+		fmt.Print(err)
+	}
+	apiKey = string(apiKeyBytes)[:len(apiKeyBytes)-1]
 }
 
 func retryRequest(nRetries *int, err error) {
@@ -73,7 +94,7 @@ func requestData(url string) []byte {
 	return []byte(body)
 }
 
-func getHouseInformation(houseId int, apiKey string) domainApiResponse {
+func getHouseInformation(houseId int) domainApiResponse {
 	url := fmt.Sprintf("https://api.domain.com.au/sandbox/v1/listings/%d?api_key=%s", houseId, apiKey)
 
 	i := domainApiResponse{}
