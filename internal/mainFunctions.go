@@ -18,5 +18,5 @@ func PullListings() {
 		wrappedIds = append(wrappedIds, scrapedHouse{i, -1})
 	}
 
-	getNewRecords(wrappedIds, sold)
+	getNewRecords(wrappedIds, listing)
 }
