@@ -88,7 +88,8 @@ func getNewRecords(houses []scrapedHouse, pType propertyType) {
 						photo = ""
 					}
 					row = []string{
-						fmt.Sprintf("www.domain.com.au/%d", house.Id),
+						strconv.Itoa(house.Id),
+						fmt.Sprintf("https://www.domain.com.au/%d", house.Id),
 						resp.AddressParts.DisplayAddress,
 						resp.AddressParts.Suburb,
 						resp.DateListed,
