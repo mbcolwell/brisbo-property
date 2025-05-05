@@ -13,3 +13,7 @@ mount-gravatt-east-qld-4122
 mount-gravatt-qld-4122
 upper-mount-gravatt-qld-4122
 camp-hill-qld-4152
+morningside-qld-4170
+brookfield-qld-4069
+holland-park-west-qld-4121
+holland-park-qld-4121
